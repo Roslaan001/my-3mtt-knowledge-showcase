@@ -1,0 +1,2772 @@
+crop,location,month,price
+Rice,Abia,6,1086.74
+Rice,Abia,3,1066.95
+Rice,Abia,8,1429.21
+Rice,Abia,9,1250.33
+Maize,Abia,7,485.38
+Yam,Abia,6,1098.84
+Yam,Abia,8,866.97
+Yam,Abia,4,1111.47
+Yam,Abia,3,627.35
+Beans,Abia,1,1076.08
+Cassava,Abia,10,599.22
+Tomato,Abia,11,647.49
+Tomato,Abia,10,544.6
+Tomato,Abia,4,846.29
+Tomato,Abia,3,463.15
+Onion,Abia,9,620.26
+Onion,Abia,6,715.77
+Onion,Abia,11,966.4
+Onion,Abia,2,837.2
+Garri,Abia,8,758.95
+Garri,Abia,2,636.11
+Garri,Abia,9,603.18
+Garri,Abia,7,587.27
+Palm Oil,Abia,4,1444.48
+Palm Oil,Abia,8,1903.29
+Palm Oil,Abia,9,1826.13
+Groundnut,Abia,4,964.21
+Groundnut,Abia,2,1199.68
+Groundnut,Abia,8,732.2
+Sorghum,Abia,5,666.99
+Sorghum,Abia,11,467.81
+Sorghum,Abia,4,790.3
+Millet,Abia,4,345.37
+Millet,Abia,3,563.41
+Millet,Abia,12,728.63
+Wheat,Abia,4,912.47
+Wheat,Abia,6,1284.67
+Sugar,Abia,4,606.85
+Salt,Abia,11,244.4
+Salt,Abia,2,116.49
+Pepper,Abia,10,875.83
+Cocoa,Abia,3,2765.06
+Cocoa,Abia,1,2003.85
+Cocoa,Abia,8,1781.36
+Coffee,Abia,1,1624.56
+Coffee,Abia,5,2028.24
+Plantain,Abia,10,902.51
+Plantain,Abia,4,411.06
+Plantain,Abia,2,632.25
+Plantain,Abia,1,782.07
+Banana,Abia,4,786.48
+Banana,Abia,8,520.74
+Banana,Abia,5,317.89
+Banana,Abia,1,393.8
+Sweet Potato,Abia,6,595.38
+Sweet Potato,Abia,3,364.1
+Sweet Potato,Abia,7,698.28
+Irish Potato,Abia,2,598.07
+Irish Potato,Abia,1,572.82
+Cabbage,Abia,11,648.48
+Cabbage,Abia,12,496.48
+Cabbage,Abia,8,666.78
+Carrot,Abia,3,876.1
+Okra,Abia,4,625.0
+Eggplant,Abia,9,515.87
+Eggplant,Abia,1,575.23
+Watermelon,Abia,3,541.59
+Watermelon,Abia,7,592.05
+Watermelon,Abia,1,401.14
+Pineapple,Abia,1,628.9
+Pineapple,Abia,8,1142.17
+Orange,Abia,5,394.85
+Orange,Abia,2,301.53
+Orange,Abia,11,490.74
+Mango,Abia,11,461.7
+Mango,Abia,6,528.33
+Mango,Abia,5,494.02
+Rice,Adamawa,11,1119.52
+Rice,Adamawa,5,1028.36
+Rice,Adamawa,12,1260.85
+Rice,Adamawa,9,1319.43
+Maize,Adamawa,2,656.54
+Maize,Adamawa,11,567.48
+Maize,Adamawa,6,525.22
+Maize,Adamawa,3,630.14
+Yam,Adamawa,11,1141.13
+Yam,Adamawa,5,936.35
+Yam,Adamawa,1,617.92
+Beans,Adamawa,1,1286.14
+Beans,Adamawa,12,1094.54
+Cassava,Adamawa,3,395.3
+Tomato,Adamawa,2,975.46
+Onion,Adamawa,6,853.2
+Onion,Adamawa,12,991.28
+Garri,Adamawa,3,572.55
+Garri,Adamawa,12,618.69
+Garri,Adamawa,5,574.84
+Palm Oil,Adamawa,11,1004.35
+Groundnut,Adamawa,11,968.43
+Groundnut,Adamawa,6,556.3
+Groundnut,Adamawa,9,1095.27
+Sorghum,Adamawa,9,530.16
+Sorghum,Adamawa,7,784.67
+Sorghum,Adamawa,2,339.77
+Millet,Adamawa,4,674.08
+Millet,Adamawa,9,327.78
+Millet,Adamawa,2,444.72
+Wheat,Adamawa,2,1585.06
+Sugar,Adamawa,1,667.14
+Sugar,Adamawa,5,965.4
+Sugar,Adamawa,6,727.01
+Sugar,Adamawa,9,986.43
+Salt,Adamawa,10,183.23
+Pepper,Adamawa,6,782.27
+Pepper,Adamawa,3,770.16
+Pepper,Adamawa,4,897.41
+Cocoa,Adamawa,1,2281.97
+Cocoa,Adamawa,12,1692.69
+Coffee,Adamawa,8,2357.74
+Coffee,Adamawa,12,1500.76
+Plantain,Adamawa,7,472.39
+Plantain,Adamawa,8,955.94
+Plantain,Adamawa,10,780.44
+Banana,Adamawa,6,715.29
+Banana,Adamawa,9,409.53
+Banana,Adamawa,2,369.84
+Banana,Adamawa,7,613.7
+Sweet Potato,Adamawa,7,600.2
+Sweet Potato,Adamawa,2,306.78
+Sweet Potato,Adamawa,1,353.52
+Sweet Potato,Adamawa,5,201.13
+Irish Potato,Adamawa,11,503.19
+Cabbage,Adamawa,7,641.38
+Cabbage,Adamawa,8,547.75
+Cabbage,Adamawa,2,522.26
+Carrot,Adamawa,7,493.32
+Carrot,Adamawa,2,596.07
+Carrot,Adamawa,9,573.57
+Carrot,Adamawa,12,665.47
+Okra,Adamawa,7,603.93
+Okra,Adamawa,1,597.92
+Eggplant,Adamawa,9,469.5
+Watermelon,Adamawa,11,927.33
+Watermelon,Adamawa,9,910.08
+Watermelon,Adamawa,2,487.29
+Watermelon,Adamawa,5,768.36
+Pineapple,Adamawa,11,925.81
+Pineapple,Adamawa,1,659.56
+Orange,Adamawa,10,557.67
+Orange,Adamawa,2,339.28
+Mango,Adamawa,1,568.94
+Rice,Akwa Ibom,9,1397.89
+Rice,Akwa Ibom,1,1025.85
+Maize,Akwa Ibom,2,444.13
+Yam,Akwa Ibom,7,608.8
+Yam,Akwa Ibom,1,992.12
+Beans,Akwa Ibom,9,1216.92
+Cassava,Akwa Ibom,2,524.29
+Cassava,Akwa Ibom,9,553.96
+Cassava,Akwa Ibom,6,331.79
+Tomato,Akwa Ibom,10,492.07
+Tomato,Akwa Ibom,1,657.23
+Onion,Akwa Ibom,5,505.4
+Onion,Akwa Ibom,12,724.75
+Garri,Akwa Ibom,1,428.18
+Garri,Akwa Ibom,10,761.08
+Palm Oil,Akwa Ibom,9,2088.71
+Palm Oil,Akwa Ibom,6,1811.72
+Palm Oil,Akwa Ibom,7,1380.9
+Groundnut,Akwa Ibom,8,1113.43
+Groundnut,Akwa Ibom,4,603.3
+Groundnut,Akwa Ibom,5,784.69
+Sorghum,Akwa Ibom,11,384.01
+Sorghum,Akwa Ibom,7,443.94
+Millet,Akwa Ibom,4,863.78
+Millet,Akwa Ibom,8,377.65
+Millet,Akwa Ibom,3,454.6
+Millet,Akwa Ibom,11,308.31
+Wheat,Akwa Ibom,2,1393.81
+Wheat,Akwa Ibom,1,1463.59
+Sugar,Akwa Ibom,2,886.12
+Salt,Akwa Ibom,10,166.89
+Pepper,Akwa Ibom,11,998.31
+Pepper,Akwa Ibom,9,614.52
+Cocoa,Akwa Ibom,1,1832.14
+Cocoa,Akwa Ibom,4,1585.01
+Cocoa,Akwa Ibom,10,1519.68
+Cocoa,Akwa Ibom,3,2324.06
+Coffee,Akwa Ibom,5,2349.36
+Coffee,Akwa Ibom,3,1607.1
+Coffee,Akwa Ibom,8,2156.51
+Plantain,Akwa Ibom,3,915.41
+Banana,Akwa Ibom,7,551.89
+Sweet Potato,Akwa Ibom,2,618.65
+Sweet Potato,Akwa Ibom,7,649.17
+Sweet Potato,Akwa Ibom,4,336.91
+Sweet Potato,Akwa Ibom,3,497.1
+Irish Potato,Akwa Ibom,8,400.07
+Irish Potato,Akwa Ibom,12,660.16
+Cabbage,Akwa Ibom,9,377.73
+Carrot,Akwa Ibom,12,752.87
+Carrot,Akwa Ibom,1,773.27
+Okra,Akwa Ibom,9,635.45
+Okra,Akwa Ibom,4,556.78
+Okra,Akwa Ibom,10,669.54
+Okra,Akwa Ibom,12,507.73
+Eggplant,Akwa Ibom,7,480.28
+Watermelon,Akwa Ibom,10,750.33
+Watermelon,Akwa Ibom,11,794.66
+Watermelon,Akwa Ibom,12,919.35
+Watermelon,Akwa Ibom,4,970.27
+Pineapple,Akwa Ibom,8,504.51
+Pineapple,Akwa Ibom,10,809.73
+Orange,Akwa Ibom,7,299.09
+Orange,Akwa Ibom,2,338.04
+Mango,Akwa Ibom,3,332.74
+Mango,Akwa Ibom,7,557.37
+Rice,Anambra,10,1053.56
+Maize,Anambra,8,386.68
+Yam,Anambra,5,725.79
+Beans,Anambra,2,1493.45
+Cassava,Anambra,1,357.3
+Cassava,Anambra,2,263.06
+Cassava,Anambra,9,372.92
+Cassava,Anambra,6,337.65
+Tomato,Anambra,3,482.03
+Tomato,Anambra,4,603.43
+Tomato,Anambra,11,796.14
+Onion,Anambra,11,587.43
+Garri,Anambra,10,792.63
+Garri,Anambra,11,724.26
+Garri,Anambra,2,652.68
+Palm Oil,Anambra,5,2317.92
+Palm Oil,Anambra,7,1084.45
+Palm Oil,Anambra,1,2043.99
+Palm Oil,Anambra,2,1928.45
+Groundnut,Anambra,2,957.2
+Groundnut,Anambra,10,938.29
+Groundnut,Anambra,7,938.28
+Sorghum,Anambra,12,557.16
+Sorghum,Anambra,1,559.51
+Sorghum,Anambra,9,491.2
+Sorghum,Anambra,3,739.35
+Millet,Anambra,4,738.71
+Millet,Anambra,2,594.59
+Millet,Anambra,3,754.99
+Wheat,Anambra,8,1104.37
+Wheat,Anambra,2,1054.27
+Wheat,Anambra,1,1343.81
+Sugar,Anambra,8,937.88
+Sugar,Anambra,6,808.36
+Sugar,Anambra,11,600.13
+Sugar,Anambra,2,612.16
+Salt,Anambra,4,172.4
+Salt,Anambra,10,215.1
+Salt,Anambra,3,246.28
+Salt,Anambra,8,252.73
+Pepper,Anambra,10,833.93
+Cocoa,Anambra,4,1943.54
+Cocoa,Anambra,6,1518.17
+Cocoa,Anambra,7,2300.43
+Cocoa,Anambra,8,1612.74
+Coffee,Anambra,12,1630.18
+Coffee,Anambra,8,1056.06
+Plantain,Anambra,7,708.96
+Banana,Anambra,7,535.59
+Banana,Anambra,9,537.74
+Sweet Potato,Anambra,7,530.86
+Irish Potato,Anambra,7,413.81
+Irish Potato,Anambra,4,528.56
+Cabbage,Anambra,2,524.08
+Carrot,Anambra,12,589.38
+Carrot,Anambra,6,690.38
+Carrot,Anambra,8,578.6
+Okra,Anambra,1,344.07
+Okra,Anambra,4,524.26
+Eggplant,Anambra,11,422.79
+Eggplant,Anambra,9,548.53
+Eggplant,Anambra,12,594.55
+Watermelon,Anambra,5,428.05
+Pineapple,Anambra,12,566.28
+Orange,Anambra,1,511.93
+Orange,Anambra,12,478.62
+Orange,Anambra,2,225.73
+Orange,Anambra,7,205.04
+Mango,Anambra,1,429.94
+Mango,Anambra,5,247.64
+Mango,Anambra,8,287.42
+Mango,Anambra,3,244.2
+Rice,Bauchi,6,1376.24
+Maize,Bauchi,8,745.59
+Maize,Bauchi,7,454.62
+Yam,Bauchi,5,1183.48
+Beans,Bauchi,8,1357.6
+Beans,Bauchi,3,1093.84
+Beans,Bauchi,11,780.29
+Beans,Bauchi,9,1445.79
+Cassava,Bauchi,1,547.44
+Cassava,Bauchi,5,530.08
+Cassava,Bauchi,11,454.97
+Cassava,Bauchi,3,490.87
+Tomato,Bauchi,11,513.88
+Onion,Bauchi,6,998.93
+Onion,Bauchi,4,676.75
+Onion,Bauchi,1,948.07
+Onion,Bauchi,5,642.01
+Garri,Bauchi,1,717.3
+Garri,Bauchi,8,719.85
+Garri,Bauchi,11,642.85
+Garri,Bauchi,5,620.96
+Palm Oil,Bauchi,7,1772.08
+Groundnut,Bauchi,1,1108.17
+Sorghum,Bauchi,11,414.9
+Millet,Bauchi,12,633.42
+Millet,Bauchi,6,355.16
+Millet,Bauchi,2,349.99
+Millet,Bauchi,7,800.32
+Wheat,Bauchi,10,1445.02
+Wheat,Bauchi,5,1196.12
+Sugar,Bauchi,9,977.05
+Sugar,Bauchi,1,954.18
+Salt,Bauchi,2,141.25
+Salt,Bauchi,9,168.58
+Pepper,Bauchi,1,629.29
+Pepper,Bauchi,12,740.12
+Pepper,Bauchi,6,805.98
+Cocoa,Bauchi,5,2022.42
+Cocoa,Bauchi,1,1676.24
+Coffee,Bauchi,12,1276.79
+Plantain,Bauchi,5,739.13
+Banana,Bauchi,11,589.16
+Sweet Potato,Bauchi,7,320.63
+Irish Potato,Bauchi,11,642.17
+Irish Potato,Bauchi,12,547.23
+Cabbage,Bauchi,3,690.68
+Carrot,Bauchi,11,498.39
+Carrot,Bauchi,6,842.43
+Okra,Bauchi,3,546.4
+Okra,Bauchi,1,468.12
+Eggplant,Bauchi,6,240.78
+Eggplant,Bauchi,12,255.59
+Eggplant,Bauchi,2,336.5
+Watermelon,Bauchi,4,658.33
+Watermelon,Bauchi,10,539.11
+Pineapple,Bauchi,4,572.97
+Pineapple,Bauchi,5,791.47
+Pineapple,Bauchi,6,972.93
+Orange,Bauchi,10,288.14
+Orange,Bauchi,3,358.79
+Orange,Bauchi,12,329.97
+Mango,Bauchi,7,200.36
+Mango,Bauchi,1,414.13
+Mango,Bauchi,3,364.47
+Rice,Bayelsa,3,1118.46
+Rice,Bayelsa,10,1305.08
+Maize,Bayelsa,10,746.48
+Maize,Bayelsa,5,643.63
+Maize,Bayelsa,12,583.42
+Yam,Bayelsa,8,733.82
+Yam,Bayelsa,9,1158.66
+Yam,Bayelsa,1,1091.64
+Yam,Bayelsa,4,858.46
+Beans,Bayelsa,3,1301.02
+Beans,Bayelsa,10,868.24
+Beans,Bayelsa,11,717.69
+Beans,Bayelsa,12,993.4
+Cassava,Bayelsa,11,278.31
+Cassava,Bayelsa,9,591.98
+Cassava,Bayelsa,1,406.69
+Tomato,Bayelsa,7,468.39
+Tomato,Bayelsa,2,676.89
+Onion,Bayelsa,7,607.28
+Onion,Bayelsa,6,839.03
+Onion,Bayelsa,9,993.87
+Garri,Bayelsa,11,704.81
+Garri,Bayelsa,3,392.65
+Garri,Bayelsa,8,529.0
+Palm Oil,Bayelsa,4,1373.8
+Groundnut,Bayelsa,7,1042.87
+Sorghum,Bayelsa,11,538.31
+Sorghum,Bayelsa,8,445.59
+Sorghum,Bayelsa,1,724.1
+Millet,Bayelsa,12,760.19
+Millet,Bayelsa,4,712.05
+Wheat,Bayelsa,8,1331.15
+Wheat,Bayelsa,11,1566.12
+Sugar,Bayelsa,4,937.11
+Sugar,Bayelsa,3,802.89
+Salt,Bayelsa,4,190.69
+Salt,Bayelsa,7,163.28
+Pepper,Bayelsa,7,613.82
+Pepper,Bayelsa,5,554.07
+Cocoa,Bayelsa,12,1729.77
+Cocoa,Bayelsa,11,1941.71
+Coffee,Bayelsa,6,1711.44
+Coffee,Bayelsa,3,2059.09
+Coffee,Bayelsa,11,1435.08
+Plantain,Bayelsa,10,790.6
+Banana,Bayelsa,5,340.17
+Banana,Bayelsa,8,535.89
+Banana,Bayelsa,1,561.46
+Banana,Bayelsa,2,765.63
+Sweet Potato,Bayelsa,8,241.68
+Sweet Potato,Bayelsa,7,305.87
+Sweet Potato,Bayelsa,6,582.74
+Sweet Potato,Bayelsa,9,647.76
+Irish Potato,Bayelsa,1,551.3
+Irish Potato,Bayelsa,10,955.33
+Irish Potato,Bayelsa,8,895.44
+Cabbage,Bayelsa,1,650.83
+Cabbage,Bayelsa,2,310.4
+Cabbage,Bayelsa,4,331.29
+Cabbage,Bayelsa,7,622.92
+Carrot,Bayelsa,8,641.0
+Carrot,Bayelsa,12,557.97
+Carrot,Bayelsa,9,634.9
+Okra,Bayelsa,11,375.57
+Okra,Bayelsa,4,648.53
+Okra,Bayelsa,6,566.23
+Eggplant,Bayelsa,5,243.09
+Watermelon,Bayelsa,9,994.19
+Watermelon,Bayelsa,11,403.57
+Watermelon,Bayelsa,5,598.86
+Pineapple,Bayelsa,9,841.39
+Pineapple,Bayelsa,7,611.78
+Pineapple,Bayelsa,8,539.48
+Orange,Bayelsa,5,262.36
+Mango,Bayelsa,3,371.79
+Mango,Bayelsa,9,494.41
+Mango,Bayelsa,12,465.83
+Rice,Benue,3,1495.67
+Maize,Benue,11,799.5
+Maize,Benue,1,708.32
+Yam,Benue,12,766.37
+Beans,Benue,1,1074.9
+Cassava,Benue,8,224.09
+Tomato,Benue,1,789.59
+Tomato,Benue,6,809.09
+Tomato,Benue,10,805.81
+Tomato,Benue,9,884.18
+Onion,Benue,10,643.21
+Onion,Benue,6,859.97
+Onion,Benue,7,740.85
+Onion,Benue,4,537.35
+Garri,Benue,9,705.68
+Garri,Benue,11,477.92
+Garri,Benue,7,748.94
+Garri,Benue,10,368.31
+Palm Oil,Benue,12,1518.53
+Palm Oil,Benue,9,1147.69
+Groundnut,Benue,1,1097.47
+Groundnut,Benue,3,550.02
+Sorghum,Benue,9,503.07
+Sorghum,Benue,3,638.79
+Sorghum,Benue,1,576.51
+Sorghum,Benue,8,507.35
+Millet,Benue,7,884.61
+Millet,Benue,1,746.49
+Millet,Benue,8,669.07
+Millet,Benue,2,449.62
+Wheat,Benue,10,1548.68
+Sugar,Benue,2,666.57
+Sugar,Benue,7,815.28
+Sugar,Benue,9,622.22
+Sugar,Benue,1,807.08
+Salt,Benue,2,261.7
+Salt,Benue,6,224.25
+Pepper,Benue,9,907.72
+Cocoa,Benue,4,2009.03
+Cocoa,Benue,2,2831.85
+Coffee,Benue,8,1059.28
+Plantain,Benue,4,477.14
+Banana,Benue,11,725.77
+Banana,Benue,10,489.68
+Sweet Potato,Benue,10,463.77
+Sweet Potato,Benue,11,336.75
+Irish Potato,Benue,7,574.29
+Cabbage,Benue,1,599.44
+Cabbage,Benue,8,620.26
+Carrot,Benue,1,756.92
+Carrot,Benue,11,501.66
+Carrot,Benue,12,419.7
+Carrot,Benue,3,584.99
+Okra,Benue,2,607.4
+Eggplant,Benue,8,202.25
+Eggplant,Benue,11,410.23
+Watermelon,Benue,11,607.46
+Watermelon,Benue,9,630.8
+Watermelon,Benue,8,744.84
+Watermelon,Benue,12,843.15
+Pineapple,Benue,8,1184.65
+Pineapple,Benue,5,948.66
+Pineapple,Benue,1,572.83
+Orange,Benue,2,416.58
+Mango,Benue,10,341.51
+Rice,Borno,8,1225.33
+Maize,Borno,11,562.73
+Maize,Borno,1,733.25
+Yam,Borno,5,618.25
+Beans,Borno,9,703.0
+Beans,Borno,4,1098.82
+Cassava,Borno,8,493.36
+Cassava,Borno,4,555.36
+Cassava,Borno,11,551.93
+Cassava,Borno,12,390.82
+Tomato,Borno,8,631.88
+Onion,Borno,3,847.28
+Onion,Borno,12,580.48
+Garri,Borno,2,492.22
+Garri,Borno,5,634.86
+Palm Oil,Borno,4,2255.95
+Groundnut,Borno,12,962.19
+Groundnut,Borno,10,641.63
+Sorghum,Borno,6,568.29
+Sorghum,Borno,9,458.77
+Sorghum,Borno,2,823.24
+Millet,Borno,1,575.71
+Wheat,Borno,3,1451.35
+Sugar,Borno,2,795.28
+Sugar,Borno,3,810.48
+Sugar,Borno,1,763.89
+Sugar,Borno,8,683.95
+Salt,Borno,6,265.64
+Salt,Borno,12,228.22
+Salt,Borno,3,201.92
+Pepper,Borno,9,767.55
+Cocoa,Borno,12,1847.98
+Cocoa,Borno,5,2862.35
+Cocoa,Borno,2,2983.08
+Cocoa,Borno,11,2031.33
+Coffee,Borno,3,1638.43
+Plantain,Borno,12,897.39
+Banana,Borno,4,786.16
+Sweet Potato,Borno,9,682.24
+Sweet Potato,Borno,7,309.22
+Sweet Potato,Borno,10,647.67
+Irish Potato,Borno,11,522.12
+Irish Potato,Borno,7,651.61
+Irish Potato,Borno,1,818.86
+Cabbage,Borno,7,409.36
+Cabbage,Borno,10,628.59
+Cabbage,Borno,3,523.04
+Cabbage,Borno,12,494.33
+Carrot,Borno,2,740.31
+Okra,Borno,10,605.05
+Okra,Borno,5,448.73
+Eggplant,Borno,11,457.27
+Eggplant,Borno,7,379.35
+Watermelon,Borno,1,818.61
+Watermelon,Borno,7,465.48
+Watermelon,Borno,9,713.42
+Pineapple,Borno,8,505.5
+Pineapple,Borno,1,977.68
+Orange,Borno,6,289.58
+Orange,Borno,12,493.38
+Orange,Borno,2,428.61
+Orange,Borno,3,553.71
+Mango,Borno,9,230.34
+Mango,Borno,10,589.9
+Mango,Borno,8,423.86
+Rice,Cross River,9,1177.95
+Rice,Cross River,3,1180.64
+Rice,Cross River,7,1149.36
+Rice,Cross River,2,912.86
+Maize,Cross River,3,307.29
+Maize,Cross River,2,675.68
+Maize,Cross River,12,640.77
+Yam,Cross River,10,862.86
+Yam,Cross River,11,755.08
+Yam,Cross River,7,1133.09
+Beans,Cross River,7,1481.18
+Cassava,Cross River,4,507.34
+Cassava,Cross River,12,591.97
+Cassava,Cross River,3,392.15
+Tomato,Cross River,10,928.14
+Tomato,Cross River,1,404.59
+Tomato,Cross River,7,967.11
+Onion,Cross River,5,528.81
+Onion,Cross River,8,681.84
+Onion,Cross River,11,765.68
+Onion,Cross River,6,841.02
+Garri,Cross River,6,515.79
+Garri,Cross River,11,691.39
+Garri,Cross River,12,424.78
+Garri,Cross River,7,314.4
+Palm Oil,Cross River,7,2009.94
+Palm Oil,Cross River,6,2228.28
+Palm Oil,Cross River,8,1147.45
+Groundnut,Cross River,6,1004.37
+Sorghum,Cross River,10,796.87
+Sorghum,Cross River,5,528.01
+Sorghum,Cross River,9,726.36
+Sorghum,Cross River,4,661.14
+Millet,Cross River,3,526.01
+Millet,Cross River,12,366.64
+Millet,Cross River,5,638.84
+Wheat,Cross River,12,1399.04
+Sugar,Cross River,9,624.77
+Sugar,Cross River,11,755.2
+Sugar,Cross River,8,670.83
+Salt,Cross River,3,108.54
+Salt,Cross River,10,179.07
+Salt,Cross River,11,277.16
+Salt,Cross River,8,202.13
+Pepper,Cross River,8,557.9
+Pepper,Cross River,1,606.8
+Cocoa,Cross River,9,1811.3
+Cocoa,Cross River,3,2718.94
+Cocoa,Cross River,8,1958.75
+Coffee,Cross River,1,2037.81
+Coffee,Cross River,12,1377.07
+Plantain,Cross River,9,904.86
+Banana,Cross River,1,418.32
+Banana,Cross River,11,519.43
+Sweet Potato,Cross River,4,613.06
+Sweet Potato,Cross River,7,562.41
+Sweet Potato,Cross River,2,240.11
+Sweet Potato,Cross River,12,474.62
+Irish Potato,Cross River,8,675.91
+Irish Potato,Cross River,3,527.87
+Irish Potato,Cross River,12,566.18
+Cabbage,Cross River,1,443.82
+Cabbage,Cross River,3,415.0
+Cabbage,Cross River,2,332.18
+Cabbage,Cross River,12,556.99
+Carrot,Cross River,3,498.36
+Carrot,Cross River,1,550.13
+Carrot,Cross River,6,609.08
+Carrot,Cross River,7,828.9
+Okra,Cross River,2,443.89
+Okra,Cross River,3,536.77
+Okra,Cross River,4,441.59
+Okra,Cross River,7,581.51
+Eggplant,Cross River,11,247.2
+Eggplant,Cross River,8,315.92
+Eggplant,Cross River,10,421.91
+Watermelon,Cross River,2,527.63
+Watermelon,Cross River,7,577.84
+Pineapple,Cross River,8,1093.63
+Pineapple,Cross River,9,949.95
+Pineapple,Cross River,11,957.01
+Pineapple,Cross River,6,1107.72
+Orange,Cross River,12,392.9
+Mango,Cross River,8,386.21
+Mango,Cross River,6,238.23
+Rice,Delta,6,891.15
+Maize,Delta,9,372.95
+Maize,Delta,5,494.53
+Maize,Delta,7,521.86
+Maize,Delta,3,721.96
+Yam,Delta,3,1057.69
+Yam,Delta,10,681.39
+Yam,Delta,8,1001.31
+Yam,Delta,11,1060.02
+Beans,Delta,8,1262.25
+Beans,Delta,4,766.22
+Cassava,Delta,10,538.19
+Cassava,Delta,9,362.93
+Cassava,Delta,11,279.29
+Cassava,Delta,7,458.62
+Tomato,Delta,5,741.66
+Tomato,Delta,11,468.44
+Tomato,Delta,6,563.47
+Onion,Delta,6,656.89
+Garri,Delta,4,748.83
+Palm Oil,Delta,7,2287.16
+Palm Oil,Delta,4,1780.22
+Groundnut,Delta,8,506.0
+Groundnut,Delta,9,1122.12
+Sorghum,Delta,8,827.24
+Sorghum,Delta,3,829.38
+Sorghum,Delta,12,398.65
+Sorghum,Delta,7,813.52
+Millet,Delta,7,408.49
+Millet,Delta,4,862.4
+Millet,Delta,9,539.84
+Millet,Delta,1,649.64
+Wheat,Delta,9,1162.33
+Wheat,Delta,2,1146.86
+Wheat,Delta,10,810.76
+Sugar,Delta,4,954.81
+Sugar,Delta,3,949.8
+Sugar,Delta,7,702.58
+Sugar,Delta,12,878.68
+Salt,Delta,10,222.93
+Pepper,Delta,9,994.57
+Cocoa,Delta,8,2916.24
+Cocoa,Delta,5,2582.61
+Cocoa,Delta,6,2917.2
+Cocoa,Delta,10,1737.4
+Coffee,Delta,9,2491.76
+Coffee,Delta,12,2210.62
+Plantain,Delta,12,636.8
+Plantain,Delta,3,860.8
+Plantain,Delta,6,533.53
+Banana,Delta,5,443.96
+Banana,Delta,12,604.44
+Banana,Delta,2,546.73
+Sweet Potato,Delta,12,349.99
+Irish Potato,Delta,2,456.46
+Cabbage,Delta,12,357.32
+Carrot,Delta,2,439.43
+Carrot,Delta,4,440.78
+Carrot,Delta,8,531.09
+Carrot,Delta,11,785.44
+Okra,Delta,10,582.54
+Eggplant,Delta,12,599.93
+Watermelon,Delta,5,805.49
+Watermelon,Delta,3,634.44
+Watermelon,Delta,6,812.65
+Pineapple,Delta,12,1092.28
+Orange,Delta,1,514.01
+Mango,Delta,5,318.46
+Mango,Delta,10,232.23
+Mango,Delta,1,500.84
+Rice,Ebonyi,1,1358.62
+Maize,Ebonyi,7,446.02
+Maize,Ebonyi,6,637.25
+Maize,Ebonyi,8,376.8
+Yam,Ebonyi,11,837.54
+Yam,Ebonyi,10,884.4
+Yam,Ebonyi,1,1054.2
+Beans,Ebonyi,6,928.1
+Beans,Ebonyi,7,710.26
+Beans,Ebonyi,8,1028.71
+Beans,Ebonyi,9,1112.42
+Cassava,Ebonyi,3,265.03
+Cassava,Ebonyi,4,237.0
+Cassava,Ebonyi,1,341.74
+Tomato,Ebonyi,4,728.87
+Tomato,Ebonyi,3,626.17
+Tomato,Ebonyi,6,810.71
+Onion,Ebonyi,1,631.61
+Onion,Ebonyi,8,640.6
+Garri,Ebonyi,4,563.68
+Garri,Ebonyi,10,337.84
+Garri,Ebonyi,12,501.73
+Garri,Ebonyi,7,408.28
+Palm Oil,Ebonyi,12,1075.31
+Palm Oil,Ebonyi,1,1838.0
+Palm Oil,Ebonyi,6,1067.25
+Groundnut,Ebonyi,1,665.95
+Groundnut,Ebonyi,11,504.18
+Groundnut,Ebonyi,7,1134.48
+Sorghum,Ebonyi,8,491.97
+Sorghum,Ebonyi,7,786.58
+Sorghum,Ebonyi,3,849.13
+Millet,Ebonyi,10,798.53
+Wheat,Ebonyi,9,1329.86
+Wheat,Ebonyi,7,1548.18
+Sugar,Ebonyi,8,674.51
+Sugar,Ebonyi,2,719.68
+Sugar,Ebonyi,10,777.07
+Sugar,Ebonyi,3,783.79
+Salt,Ebonyi,11,273.41
+Pepper,Ebonyi,10,779.93
+Pepper,Ebonyi,9,607.97
+Cocoa,Ebonyi,9,2792.33
+Cocoa,Ebonyi,10,2611.86
+Coffee,Ebonyi,1,2396.11
+Coffee,Ebonyi,7,2367.39
+Coffee,Ebonyi,6,2349.67
+Coffee,Ebonyi,10,1971.41
+Plantain,Ebonyi,5,430.54
+Plantain,Ebonyi,2,542.86
+Plantain,Ebonyi,8,762.84
+Banana,Ebonyi,1,523.5
+Banana,Ebonyi,2,582.67
+Sweet Potato,Ebonyi,3,331.55
+Sweet Potato,Ebonyi,12,311.21
+Sweet Potato,Ebonyi,2,376.28
+Irish Potato,Ebonyi,3,824.88
+Irish Potato,Ebonyi,5,961.84
+Irish Potato,Ebonyi,10,479.88
+Cabbage,Ebonyi,9,437.69
+Cabbage,Ebonyi,6,542.3
+Cabbage,Ebonyi,8,656.97
+Cabbage,Ebonyi,1,442.77
+Carrot,Ebonyi,7,684.26
+Carrot,Ebonyi,5,557.59
+Carrot,Ebonyi,1,526.01
+Carrot,Ebonyi,3,720.82
+Okra,Ebonyi,5,342.24
+Okra,Ebonyi,9,513.22
+Eggplant,Ebonyi,7,478.19
+Eggplant,Ebonyi,6,369.55
+Eggplant,Ebonyi,4,583.36
+Eggplant,Ebonyi,2,378.28
+Watermelon,Ebonyi,5,468.01
+Pineapple,Ebonyi,10,868.23
+Pineapple,Ebonyi,1,930.01
+Pineapple,Ebonyi,5,701.7
+Orange,Ebonyi,11,523.58
+Orange,Ebonyi,6,293.8
+Orange,Ebonyi,8,513.58
+Orange,Ebonyi,12,224.73
+Mango,Ebonyi,10,232.42
+Mango,Ebonyi,4,231.56
+Rice,Edo,5,1387.61
+Rice,Edo,6,988.23
+Maize,Edo,11,731.61
+Maize,Edo,12,777.92
+Maize,Edo,5,308.79
+Maize,Edo,9,480.16
+Yam,Edo,8,814.43
+Yam,Edo,7,871.33
+Yam,Edo,4,675.51
+Yam,Edo,9,1054.72
+Beans,Edo,5,1029.21
+Beans,Edo,7,1343.33
+Cassava,Edo,2,209.71
+Cassava,Edo,8,401.22
+Tomato,Edo,9,785.82
+Onion,Edo,11,646.18
+Onion,Edo,6,504.54
+Onion,Edo,8,943.69
+Onion,Edo,4,658.6
+Garri,Edo,4,601.92
+Garri,Edo,9,390.75
+Garri,Edo,12,491.46
+Garri,Edo,7,331.46
+Palm Oil,Edo,4,2126.81
+Groundnut,Edo,12,1119.79
+Sorghum,Edo,5,558.08
+Sorghum,Edo,3,471.79
+Millet,Edo,5,755.8
+Millet,Edo,12,507.49
+Millet,Edo,2,759.2
+Wheat,Edo,7,904.21
+Wheat,Edo,8,1457.38
+Sugar,Edo,1,967.79
+Salt,Edo,2,144.45
+Salt,Edo,1,177.03
+Pepper,Edo,5,760.58
+Pepper,Edo,12,926.85
+Pepper,Edo,6,979.67
+Pepper,Edo,9,864.23
+Cocoa,Edo,7,1789.89
+Cocoa,Edo,4,2784.69
+Coffee,Edo,9,1649.58
+Coffee,Edo,6,1567.56
+Plantain,Edo,6,553.53
+Plantain,Edo,7,548.35
+Plantain,Edo,8,701.63
+Plantain,Edo,3,667.45
+Banana,Edo,5,612.77
+Banana,Edo,1,625.07
+Sweet Potato,Edo,11,372.41
+Sweet Potato,Edo,1,361.72
+Sweet Potato,Edo,8,567.75
+Sweet Potato,Edo,2,426.89
+Irish Potato,Edo,8,521.95
+Irish Potato,Edo,5,760.29
+Irish Potato,Edo,12,864.77
+Cabbage,Edo,8,578.04
+Cabbage,Edo,6,646.45
+Carrot,Edo,6,888.69
+Carrot,Edo,2,784.64
+Carrot,Edo,1,680.81
+Carrot,Edo,7,533.26
+Okra,Edo,2,412.23
+Okra,Edo,10,466.63
+Okra,Edo,12,377.85
+Okra,Edo,6,619.05
+Eggplant,Edo,9,354.76
+Watermelon,Edo,2,919.8
+Watermelon,Edo,8,659.71
+Watermelon,Edo,4,862.36
+Pineapple,Edo,8,678.08
+Pineapple,Edo,5,815.4
+Pineapple,Edo,4,705.58
+Orange,Edo,2,248.34
+Orange,Edo,11,485.34
+Mango,Edo,3,410.94
+Mango,Edo,11,349.15
+Rice,Ekiti,10,1067.89
+Rice,Ekiti,9,1437.24
+Rice,Ekiti,6,1140.2
+Maize,Ekiti,5,759.63
+Maize,Ekiti,10,492.12
+Yam,Ekiti,3,1017.7
+Yam,Ekiti,9,1014.0
+Yam,Ekiti,5,600.83
+Beans,Ekiti,2,970.41
+Beans,Ekiti,11,1272.96
+Cassava,Ekiti,7,392.57
+Cassava,Ekiti,11,320.76
+Tomato,Ekiti,6,445.32
+Tomato,Ekiti,11,911.36
+Tomato,Ekiti,5,678.69
+Tomato,Ekiti,3,615.14
+Onion,Ekiti,7,519.31
+Onion,Ekiti,8,529.75
+Onion,Ekiti,2,901.19
+Garri,Ekiti,11,573.9
+Garri,Ekiti,10,780.05
+Palm Oil,Ekiti,3,1761.35
+Palm Oil,Ekiti,4,1820.66
+Palm Oil,Ekiti,11,1064.34
+Groundnut,Ekiti,11,784.93
+Groundnut,Ekiti,12,824.34
+Sorghum,Ekiti,4,694.41
+Millet,Ekiti,12,440.91
+Wheat,Ekiti,7,916.76
+Wheat,Ekiti,9,1497.75
+Wheat,Ekiti,10,1450.4
+Wheat,Ekiti,8,984.2
+Sugar,Ekiti,8,985.09
+Sugar,Ekiti,11,629.22
+Salt,Ekiti,5,119.25
+Pepper,Ekiti,8,982.46
+Pepper,Ekiti,11,995.88
+Pepper,Ekiti,5,774.96
+Pepper,Ekiti,4,860.32
+Cocoa,Ekiti,4,1740.08
+Cocoa,Ekiti,6,2907.98
+Cocoa,Ekiti,8,2717.11
+Coffee,Ekiti,9,1263.42
+Plantain,Ekiti,8,877.17
+Plantain,Ekiti,2,896.75
+Plantain,Ekiti,12,639.44
+Banana,Ekiti,7,455.69
+Banana,Ekiti,11,383.18
+Sweet Potato,Ekiti,7,354.48
+Sweet Potato,Ekiti,5,618.03
+Sweet Potato,Ekiti,4,234.52
+Irish Potato,Ekiti,10,581.92
+Irish Potato,Ekiti,4,497.66
+Irish Potato,Ekiti,8,867.93
+Cabbage,Ekiti,1,603.89
+Cabbage,Ekiti,3,624.74
+Carrot,Ekiti,5,647.52
+Carrot,Ekiti,9,778.39
+Carrot,Ekiti,2,432.35
+Okra,Ekiti,3,678.46
+Okra,Ekiti,1,574.8
+Okra,Ekiti,2,593.56
+Okra,Ekiti,5,507.89
+Eggplant,Ekiti,4,362.83
+Eggplant,Ekiti,11,340.82
+Watermelon,Ekiti,9,512.65
+Pineapple,Ekiti,10,1190.73
+Pineapple,Ekiti,11,1061.85
+Pineapple,Ekiti,9,933.89
+Pineapple,Ekiti,2,875.91
+Orange,Ekiti,12,499.29
+Mango,Ekiti,12,374.07
+Mango,Ekiti,9,555.98
+Mango,Ekiti,10,320.16
+Mango,Ekiti,1,370.52
+Rice,Enugu,6,1470.39
+Rice,Enugu,5,876.59
+Rice,Enugu,10,1207.79
+Rice,Enugu,3,1464.35
+Maize,Enugu,7,440.19
+Yam,Enugu,11,920.13
+Yam,Enugu,7,904.61
+Beans,Enugu,4,990.93
+Beans,Enugu,7,1053.25
+Beans,Enugu,2,746.59
+Beans,Enugu,12,984.54
+Cassava,Enugu,9,355.6
+Tomato,Enugu,11,822.15
+Tomato,Enugu,2,848.63
+Tomato,Enugu,3,577.31
+Onion,Enugu,8,792.43
+Onion,Enugu,12,507.12
+Onion,Enugu,5,756.39
+Garri,Enugu,10,399.02
+Garri,Enugu,1,377.89
+Garri,Enugu,4,731.37
+Garri,Enugu,8,414.88
+Palm Oil,Enugu,7,1303.99
+Groundnut,Enugu,9,596.17
+Groundnut,Enugu,4,818.26
+Groundnut,Enugu,8,1169.51
+Groundnut,Enugu,7,1000.65
+Sorghum,Enugu,7,862.55
+Sorghum,Enugu,3,615.28
+Sorghum,Enugu,11,486.26
+Sorghum,Enugu,8,817.08
+Millet,Enugu,6,666.86
+Millet,Enugu,7,826.35
+Millet,Enugu,10,595.15
+Wheat,Enugu,6,846.02
+Wheat,Enugu,12,1395.81
+Wheat,Enugu,2,1523.43
+Sugar,Enugu,3,924.05
+Sugar,Enugu,12,905.88
+Salt,Enugu,3,106.28
+Salt,Enugu,1,297.72
+Salt,Enugu,9,206.87
+Salt,Enugu,6,208.72
+Pepper,Enugu,7,564.71
+Pepper,Enugu,4,670.27
+Pepper,Enugu,9,893.36
+Cocoa,Enugu,11,2161.38
+Coffee,Enugu,6,1574.97
+Coffee,Enugu,10,1794.76
+Coffee,Enugu,3,1099.58
+Coffee,Enugu,5,2315.99
+Plantain,Enugu,7,736.1
+Banana,Enugu,4,348.03
+Banana,Enugu,2,338.58
+Sweet Potato,Enugu,8,387.55
+Sweet Potato,Enugu,1,391.47
+Sweet Potato,Enugu,3,204.12
+Irish Potato,Enugu,1,600.55
+Irish Potato,Enugu,11,972.51
+Irish Potato,Enugu,2,441.37
+Cabbage,Enugu,3,644.6
+Carrot,Enugu,6,660.25
+Carrot,Enugu,2,893.91
+Carrot,Enugu,10,886.28
+Carrot,Enugu,7,793.62
+Okra,Enugu,1,399.1
+Okra,Enugu,12,549.65
+Okra,Enugu,8,554.79
+Okra,Enugu,5,601.13
+Eggplant,Enugu,3,444.01
+Eggplant,Enugu,7,261.84
+Eggplant,Enugu,8,346.51
+Watermelon,Enugu,12,780.73
+Watermelon,Enugu,3,977.23
+Pineapple,Enugu,9,612.18
+Pineapple,Enugu,3,1080.26
+Orange,Enugu,5,379.17
+Orange,Enugu,11,204.08
+Orange,Enugu,12,424.15
+Mango,Enugu,2,483.53
+Rice,FCT,11,1112.17
+Rice,FCT,2,995.3
+Maize,FCT,4,607.97
+Maize,FCT,12,788.72
+Maize,FCT,11,335.02
+Yam,FCT,11,1114.21
+Yam,FCT,2,959.46
+Yam,FCT,7,882.13
+Yam,FCT,1,1052.2
+Beans,FCT,6,1129.0
+Beans,FCT,5,878.21
+Beans,FCT,7,1250.84
+Beans,FCT,12,920.7
+Cassava,FCT,8,529.46
+Cassava,FCT,3,338.4
+Tomato,FCT,6,509.51
+Tomato,FCT,1,549.62
+Onion,FCT,3,592.06
+Onion,FCT,5,719.59
+Onion,FCT,1,507.9
+Garri,FCT,1,601.18
+Garri,FCT,7,435.35
+Palm Oil,FCT,1,2032.38
+Palm Oil,FCT,5,1290.26
+Palm Oil,FCT,10,1193.03
+Palm Oil,FCT,11,1692.03
+Groundnut,FCT,11,814.32
+Groundnut,FCT,4,847.87
+Groundnut,FCT,1,500.28
+Sorghum,FCT,4,666.71
+Sorghum,FCT,6,728.61
+Sorghum,FCT,5,307.29
+Millet,FCT,9,886.99
+Millet,FCT,1,779.65
+Millet,FCT,6,792.01
+Wheat,FCT,7,1526.33
+Sugar,FCT,1,632.95
+Sugar,FCT,5,692.33
+Sugar,FCT,4,848.81
+Salt,FCT,6,236.32
+Pepper,FCT,12,670.61
+Cocoa,FCT,4,2270.8
+Cocoa,FCT,3,2872.04
+Cocoa,FCT,5,1873.74
+Coffee,FCT,8,1971.98
+Plantain,FCT,7,430.0
+Plantain,FCT,11,762.58
+Plantain,FCT,1,489.34
+Banana,FCT,2,419.27
+Banana,FCT,11,720.3
+Sweet Potato,FCT,2,378.96
+Irish Potato,FCT,9,596.22
+Cabbage,FCT,1,545.48
+Cabbage,FCT,12,361.86
+Cabbage,FCT,7,397.72
+Carrot,FCT,2,874.17
+Carrot,FCT,4,846.97
+Carrot,FCT,6,594.1
+Carrot,FCT,8,841.48
+Okra,FCT,4,588.47
+Okra,FCT,9,545.49
+Okra,FCT,2,686.31
+Eggplant,FCT,2,497.19
+Eggplant,FCT,6,495.1
+Eggplant,FCT,9,502.01
+Eggplant,FCT,4,307.42
+Watermelon,FCT,7,763.22
+Pineapple,FCT,10,837.01
+Orange,FCT,2,587.56
+Orange,FCT,8,315.9
+Orange,FCT,6,512.63
+Orange,FCT,9,582.97
+Mango,FCT,2,275.66
+Mango,FCT,1,337.44
+Mango,FCT,3,500.15
+Rice,Gombe,2,810.14
+Rice,Gombe,7,1377.81
+Rice,Gombe,10,1119.56
+Maize,Gombe,6,544.89
+Maize,Gombe,9,569.72
+Maize,Gombe,7,469.91
+Maize,Gombe,1,390.09
+Yam,Gombe,7,615.72
+Yam,Gombe,6,677.35
+Yam,Gombe,9,661.11
+Yam,Gombe,11,678.71
+Beans,Gombe,1,933.15
+Beans,Gombe,10,1119.25
+Beans,Gombe,3,941.97
+Beans,Gombe,2,1347.42
+Cassava,Gombe,6,310.28
+Tomato,Gombe,5,542.56
+Onion,Gombe,11,919.63
+Onion,Gombe,2,525.67
+Onion,Gombe,8,728.18
+Onion,Gombe,6,973.68
+Garri,Gombe,6,309.86
+Garri,Gombe,10,618.48
+Palm Oil,Gombe,6,1922.41
+Groundnut,Gombe,6,724.71
+Groundnut,Gombe,9,731.39
+Groundnut,Gombe,2,771.15
+Sorghum,Gombe,5,329.36
+Sorghum,Gombe,6,323.41
+Sorghum,Gombe,2,497.87
+Millet,Gombe,4,426.07
+Wheat,Gombe,12,827.74
+Sugar,Gombe,7,863.06
+Sugar,Gombe,5,866.49
+Sugar,Gombe,3,907.06
+Salt,Gombe,3,291.03
+Salt,Gombe,1,207.85
+Salt,Gombe,6,238.92
+Pepper,Gombe,3,946.15
+Pepper,Gombe,5,693.31
+Pepper,Gombe,8,861.81
+Pepper,Gombe,4,851.9
+Cocoa,Gombe,8,1621.21
+Coffee,Gombe,3,1692.15
+Coffee,Gombe,5,1512.36
+Coffee,Gombe,1,2048.07
+Plantain,Gombe,8,499.85
+Plantain,Gombe,2,512.38
+Banana,Gombe,9,771.22
+Banana,Gombe,4,555.3
+Banana,Gombe,6,608.56
+Sweet Potato,Gombe,9,698.63
+Irish Potato,Gombe,5,610.08
+Irish Potato,Gombe,7,620.41
+Irish Potato,Gombe,6,567.51
+Cabbage,Gombe,3,473.66
+Cabbage,Gombe,6,530.12
+Cabbage,Gombe,9,513.08
+Cabbage,Gombe,2,613.86
+Carrot,Gombe,9,413.7
+Okra,Gombe,2,344.9
+Eggplant,Gombe,1,572.19
+Eggplant,Gombe,2,411.43
+Eggplant,Gombe,8,355.41
+Eggplant,Gombe,10,442.08
+Watermelon,Gombe,5,913.65
+Pineapple,Gombe,11,587.77
+Pineapple,Gombe,1,603.25
+Orange,Gombe,1,290.54
+Orange,Gombe,12,464.89
+Orange,Gombe,9,423.34
+Mango,Gombe,9,527.13
+Mango,Gombe,5,456.64
+Rice,Imo,7,829.74
+Maize,Imo,10,371.44
+Maize,Imo,3,506.83
+Maize,Imo,5,766.54
+Maize,Imo,8,602.67
+Yam,Imo,2,826.84
+Yam,Imo,11,693.76
+Yam,Imo,12,736.26
+Beans,Imo,11,1029.85
+Beans,Imo,2,1132.75
+Beans,Imo,9,1238.84
+Beans,Imo,7,1455.1
+Cassava,Imo,7,386.33
+Cassava,Imo,4,576.57
+Tomato,Imo,3,683.9
+Tomato,Imo,9,541.83
+Tomato,Imo,5,717.0
+Tomato,Imo,7,788.12
+Onion,Imo,7,980.11
+Onion,Imo,8,530.59
+Onion,Imo,3,814.44
+Garri,Imo,11,477.5
+Garri,Imo,10,437.81
+Palm Oil,Imo,8,1395.15
+Palm Oil,Imo,12,1029.3
+Palm Oil,Imo,5,1647.59
+Palm Oil,Imo,4,2005.21
+Groundnut,Imo,11,531.44
+Sorghum,Imo,10,308.07
+Sorghum,Imo,6,734.49
+Sorghum,Imo,11,632.49
+Millet,Imo,1,733.16
+Wheat,Imo,12,1170.03
+Wheat,Imo,6,1084.7
+Wheat,Imo,9,1378.54
+Wheat,Imo,2,1239.94
+Sugar,Imo,10,986.08
+Salt,Imo,5,259.1
+Salt,Imo,10,189.44
+Salt,Imo,11,281.84
+Pepper,Imo,8,756.94
+Pepper,Imo,10,714.84
+Pepper,Imo,2,777.22
+Pepper,Imo,11,668.79
+Cocoa,Imo,6,1677.11
+Cocoa,Imo,2,1847.18
+Coffee,Imo,1,2336.84
+Coffee,Imo,3,1313.11
+Coffee,Imo,6,1687.24
+Coffee,Imo,12,2140.66
+Plantain,Imo,1,601.29
+Plantain,Imo,11,677.43
+Plantain,Imo,9,877.99
+Plantain,Imo,7,444.97
+Banana,Imo,12,672.55
+Banana,Imo,5,445.01
+Sweet Potato,Imo,2,287.76
+Sweet Potato,Imo,9,470.28
+Irish Potato,Imo,8,521.8
+Cabbage,Imo,11,691.8
+Cabbage,Imo,7,421.7
+Cabbage,Imo,6,656.62
+Carrot,Imo,7,529.6
+Carrot,Imo,9,790.18
+Okra,Imo,4,488.27
+Okra,Imo,1,320.28
+Okra,Imo,2,477.48
+Okra,Imo,7,397.8
+Eggplant,Imo,4,248.27
+Eggplant,Imo,7,208.19
+Eggplant,Imo,10,459.08
+Watermelon,Imo,1,829.21
+Watermelon,Imo,11,404.7
+Watermelon,Imo,7,867.99
+Pineapple,Imo,7,796.76
+Pineapple,Imo,12,1152.86
+Pineapple,Imo,1,850.07
+Orange,Imo,1,295.82
+Orange,Imo,9,230.29
+Orange,Imo,2,272.89
+Mango,Imo,6,309.57
+Mango,Imo,9,406.28
+Rice,Jigawa,3,1181.35
+Rice,Jigawa,12,1143.9
+Rice,Jigawa,11,1119.66
+Rice,Jigawa,5,1429.59
+Maize,Jigawa,1,469.47
+Maize,Jigawa,8,560.52
+Yam,Jigawa,10,1192.95
+Yam,Jigawa,9,960.22
+Yam,Jigawa,3,933.13
+Yam,Jigawa,4,879.84
+Beans,Jigawa,9,830.14
+Beans,Jigawa,8,948.34
+Beans,Jigawa,2,771.33
+Beans,Jigawa,1,1201.47
+Cassava,Jigawa,11,249.09
+Cassava,Jigawa,8,466.83
+Cassava,Jigawa,6,385.48
+Tomato,Jigawa,7,939.1
+Tomato,Jigawa,5,758.14
+Tomato,Jigawa,2,750.55
+Onion,Jigawa,6,965.33
+Onion,Jigawa,1,841.41
+Onion,Jigawa,10,537.24
+Garri,Jigawa,9,469.53
+Garri,Jigawa,3,597.7
+Garri,Jigawa,5,638.27
+Garri,Jigawa,6,541.37
+Palm Oil,Jigawa,5,2309.33
+Palm Oil,Jigawa,1,2243.53
+Palm Oil,Jigawa,10,2403.69
+Palm Oil,Jigawa,4,1598.15
+Groundnut,Jigawa,6,556.19
+Groundnut,Jigawa,9,860.48
+Sorghum,Jigawa,12,435.39
+Sorghum,Jigawa,1,848.53
+Sorghum,Jigawa,5,363.09
+Sorghum,Jigawa,4,576.99
+Millet,Jigawa,1,531.98
+Millet,Jigawa,9,710.59
+Millet,Jigawa,10,859.07
+Millet,Jigawa,5,409.26
+Wheat,Jigawa,12,1129.43
+Wheat,Jigawa,1,1597.85
+Wheat,Jigawa,3,1277.2
+Sugar,Jigawa,8,922.74
+Sugar,Jigawa,9,903.25
+Sugar,Jigawa,2,735.47
+Salt,Jigawa,7,171.04
+Salt,Jigawa,5,176.93
+Salt,Jigawa,3,101.84
+Salt,Jigawa,8,283.17
+Pepper,Jigawa,11,790.33
+Pepper,Jigawa,8,960.03
+Pepper,Jigawa,7,683.87
+Pepper,Jigawa,2,910.31
+Cocoa,Jigawa,6,2887.54
+Cocoa,Jigawa,3,1604.57
+Cocoa,Jigawa,12,2063.93
+Coffee,Jigawa,3,2005.22
+Plantain,Jigawa,8,623.49
+Plantain,Jigawa,7,654.09
+Banana,Jigawa,1,627.22
+Sweet Potato,Jigawa,6,337.86
+Sweet Potato,Jigawa,9,590.83
+Sweet Potato,Jigawa,8,404.43
+Irish Potato,Jigawa,3,827.72
+Irish Potato,Jigawa,10,736.0
+Cabbage,Jigawa,9,304.44
+Cabbage,Jigawa,6,600.94
+Cabbage,Jigawa,2,492.8
+Cabbage,Jigawa,7,347.3
+Carrot,Jigawa,3,678.62
+Carrot,Jigawa,7,528.51
+Carrot,Jigawa,6,774.47
+Okra,Jigawa,12,324.88
+Okra,Jigawa,8,333.29
+Eggplant,Jigawa,4,364.03
+Watermelon,Jigawa,3,606.75
+Pineapple,Jigawa,2,1080.64
+Pineapple,Jigawa,1,1046.53
+Orange,Jigawa,5,261.22
+Orange,Jigawa,1,594.2
+Mango,Jigawa,12,296.19
+Mango,Jigawa,1,429.64
+Rice,Kaduna,3,1145.89
+Rice,Kaduna,8,804.9
+Rice,Kaduna,2,1315.53
+Rice,Kaduna,11,1151.72
+Maize,Kaduna,6,490.29
+Maize,Kaduna,12,447.3
+Maize,Kaduna,10,397.42
+Yam,Kaduna,7,789.39
+Yam,Kaduna,2,994.18
+Yam,Kaduna,8,700.92
+Yam,Kaduna,10,773.03
+Beans,Kaduna,12,926.21
+Beans,Kaduna,10,1426.33
+Cassava,Kaduna,4,331.75
+Tomato,Kaduna,1,511.07
+Tomato,Kaduna,6,632.28
+Tomato,Kaduna,11,647.36
+Tomato,Kaduna,5,595.86
+Onion,Kaduna,4,612.02
+Onion,Kaduna,1,526.55
+Garri,Kaduna,8,790.11
+Palm Oil,Kaduna,5,2399.26
+Palm Oil,Kaduna,10,1268.57
+Groundnut,Kaduna,3,625.13
+Groundnut,Kaduna,11,745.28
+Sorghum,Kaduna,5,384.34
+Sorghum,Kaduna,3,732.72
+Sorghum,Kaduna,9,779.33
+Sorghum,Kaduna,12,462.71
+Millet,Kaduna,12,378.46
+Millet,Kaduna,8,721.85
+Millet,Kaduna,11,690.68
+Millet,Kaduna,2,316.77
+Wheat,Kaduna,8,1029.49
+Wheat,Kaduna,10,1435.82
+Wheat,Kaduna,7,1176.07
+Wheat,Kaduna,2,1170.78
+Sugar,Kaduna,9,809.26
+Sugar,Kaduna,7,985.73
+Sugar,Kaduna,8,819.13
+Sugar,Kaduna,5,827.04
+Salt,Kaduna,2,143.71
+Pepper,Kaduna,9,692.17
+Cocoa,Kaduna,12,1695.33
+Cocoa,Kaduna,10,2835.68
+Cocoa,Kaduna,6,2230.08
+Coffee,Kaduna,4,1435.34
+Coffee,Kaduna,6,1150.43
+Coffee,Kaduna,2,1628.95
+Coffee,Kaduna,8,1425.96
+Plantain,Kaduna,3,983.14
+Plantain,Kaduna,12,638.97
+Plantain,Kaduna,2,750.43
+Plantain,Kaduna,6,974.81
+Banana,Kaduna,11,740.32
+Banana,Kaduna,4,704.65
+Sweet Potato,Kaduna,1,363.49
+Sweet Potato,Kaduna,4,460.87
+Sweet Potato,Kaduna,11,609.23
+Irish Potato,Kaduna,10,882.76
+Irish Potato,Kaduna,12,982.32
+Cabbage,Kaduna,8,663.22
+Cabbage,Kaduna,4,509.53
+Cabbage,Kaduna,5,369.91
+Cabbage,Kaduna,10,572.9
+Carrot,Kaduna,6,640.76
+Carrot,Kaduna,7,669.39
+Carrot,Kaduna,9,421.26
+Carrot,Kaduna,3,699.35
+Okra,Kaduna,8,616.46
+Okra,Kaduna,7,634.1
+Okra,Kaduna,2,313.33
+Eggplant,Kaduna,9,587.57
+Eggplant,Kaduna,10,410.66
+Watermelon,Kaduna,7,595.67
+Watermelon,Kaduna,1,428.06
+Watermelon,Kaduna,3,954.54
+Watermelon,Kaduna,9,437.05
+Pineapple,Kaduna,1,1041.04
+Pineapple,Kaduna,12,875.56
+Orange,Kaduna,4,461.63
+Orange,Kaduna,5,464.5
+Orange,Kaduna,1,368.39
+Mango,Kaduna,11,241.79
+Rice,Kano,12,891.91
+Rice,Kano,10,1332.33
+Maize,Kano,1,354.97
+Maize,Kano,3,487.98
+Yam,Kano,9,864.97
+Yam,Kano,10,825.21
+Beans,Kano,4,1137.52
+Beans,Kano,7,912.0
+Beans,Kano,1,1400.37
+Cassava,Kano,4,306.66
+Cassava,Kano,1,525.45
+Tomato,Kano,2,890.04
+Tomato,Kano,3,692.51
+Tomato,Kano,7,817.71
+Tomato,Kano,8,647.27
+Onion,Kano,8,903.93
+Onion,Kano,10,979.32
+Onion,Kano,7,813.95
+Onion,Kano,4,736.99
+Garri,Kano,9,345.5
+Garri,Kano,7,467.85
+Garri,Kano,12,432.94
+Garri,Kano,10,683.45
+Palm Oil,Kano,5,1581.2
+Groundnut,Kano,1,1008.56
+Groundnut,Kano,6,617.41
+Sorghum,Kano,1,573.82
+Sorghum,Kano,10,870.34
+Sorghum,Kano,4,634.73
+Millet,Kano,10,774.55
+Millet,Kano,9,530.23
+Wheat,Kano,9,1317.43
+Wheat,Kano,6,1400.46
+Wheat,Kano,11,1134.64
+Sugar,Kano,3,978.01
+Salt,Kano,10,108.28
+Salt,Kano,9,188.61
+Salt,Kano,7,108.94
+Pepper,Kano,11,639.5
+Pepper,Kano,2,898.04
+Cocoa,Kano,12,2420.71
+Cocoa,Kano,8,2695.34
+Cocoa,Kano,11,1701.63
+Coffee,Kano,3,2437.47
+Plantain,Kano,10,425.71
+Plantain,Kano,6,692.05
+Plantain,Kano,1,937.79
+Plantain,Kano,5,799.59
+Banana,Kano,10,516.28
+Sweet Potato,Kano,4,326.05
+Sweet Potato,Kano,9,542.4
+Sweet Potato,Kano,2,614.42
+Irish Potato,Kano,4,850.69
+Irish Potato,Kano,6,603.38
+Irish Potato,Kano,5,909.64
+Irish Potato,Kano,8,428.7
+Cabbage,Kano,7,383.18
+Carrot,Kano,5,445.9
+Okra,Kano,3,377.85
+Okra,Kano,7,502.86
+Okra,Kano,4,474.83
+Eggplant,Kano,12,508.09
+Watermelon,Kano,11,717.28
+Watermelon,Kano,3,963.86
+Watermelon,Kano,5,483.17
+Pineapple,Kano,7,800.12
+Orange,Kano,7,577.7
+Orange,Kano,10,297.0
+Orange,Kano,3,344.51
+Orange,Kano,5,598.44
+Mango,Kano,8,597.77
+Mango,Kano,6,204.88
+Rice,Katsina,3,846.38
+Rice,Katsina,7,1120.1
+Rice,Katsina,4,1027.64
+Maize,Katsina,5,542.66
+Maize,Katsina,12,358.62
+Maize,Katsina,1,357.97
+Maize,Katsina,4,758.23
+Yam,Katsina,7,660.13
+Yam,Katsina,3,906.27
+Beans,Katsina,5,951.67
+Beans,Katsina,11,1053.65
+Cassava,Katsina,5,384.41
+Cassava,Katsina,9,282.61
+Cassava,Katsina,12,229.7
+Tomato,Katsina,3,774.47
+Tomato,Katsina,1,806.15
+Onion,Katsina,4,559.96
+Onion,Katsina,3,665.92
+Onion,Katsina,8,803.46
+Garri,Katsina,1,360.25
+Garri,Katsina,4,408.86
+Garri,Katsina,8,660.25
+Palm Oil,Katsina,8,1708.61
+Palm Oil,Katsina,9,1003.97
+Groundnut,Katsina,1,880.69
+Groundnut,Katsina,6,1142.56
+Sorghum,Katsina,1,594.01
+Millet,Katsina,3,890.61
+Millet,Katsina,2,725.96
+Millet,Katsina,11,855.3
+Wheat,Katsina,10,1139.68
+Sugar,Katsina,8,728.62
+Salt,Katsina,9,218.78
+Pepper,Katsina,8,540.03
+Pepper,Katsina,2,802.28
+Cocoa,Katsina,9,2845.29
+Cocoa,Katsina,6,2488.07
+Cocoa,Katsina,1,1606.78
+Coffee,Katsina,4,1094.94
+Coffee,Katsina,1,2403.36
+Coffee,Katsina,12,2334.45
+Coffee,Katsina,8,1539.73
+Plantain,Katsina,8,680.72
+Plantain,Katsina,2,992.48
+Plantain,Katsina,10,688.96
+Banana,Katsina,7,659.68
+Banana,Katsina,6,643.19
+Banana,Katsina,3,553.65
+Sweet Potato,Katsina,6,697.89
+Sweet Potato,Katsina,11,664.9
+Sweet Potato,Katsina,1,696.0
+Sweet Potato,Katsina,2,215.76
+Irish Potato,Katsina,12,507.03
+Irish Potato,Katsina,9,791.03
+Irish Potato,Katsina,6,547.46
+Irish Potato,Katsina,2,607.0
+Cabbage,Katsina,2,329.52
+Cabbage,Katsina,6,348.03
+Carrot,Katsina,4,678.57
+Carrot,Katsina,10,754.03
+Carrot,Katsina,2,880.8
+Carrot,Katsina,9,424.4
+Okra,Katsina,4,316.07
+Eggplant,Katsina,10,442.72
+Eggplant,Katsina,7,590.79
+Watermelon,Katsina,2,490.75
+Pineapple,Katsina,8,1061.31
+Pineapple,Katsina,11,938.43
+Pineapple,Katsina,4,1077.66
+Pineapple,Katsina,12,1130.21
+Orange,Katsina,9,226.9
+Orange,Katsina,2,533.81
+Orange,Katsina,6,328.47
+Orange,Katsina,11,593.45
+Mango,Katsina,11,434.87
+Mango,Katsina,5,442.73
+Mango,Katsina,12,358.41
+Mango,Katsina,8,539.93
+Rice,Kebbi,12,946.14
+Rice,Kebbi,1,1434.7
+Rice,Kebbi,3,843.78
+Rice,Kebbi,6,829.48
+Maize,Kebbi,12,414.0
+Maize,Kebbi,6,787.24
+Maize,Kebbi,4,319.57
+Maize,Kebbi,2,304.44
+Yam,Kebbi,5,838.5
+Yam,Kebbi,2,1150.39
+Beans,Kebbi,12,966.59
+Beans,Kebbi,10,1257.39
+Beans,Kebbi,8,793.19
+Cassava,Kebbi,8,402.08
+Cassava,Kebbi,12,298.21
+Tomato,Kebbi,12,860.95
+Tomato,Kebbi,4,966.27
+Tomato,Kebbi,1,816.2
+Onion,Kebbi,3,576.99
+Onion,Kebbi,4,859.17
+Onion,Kebbi,10,536.1
+Onion,Kebbi,9,621.13
+Garri,Kebbi,9,335.27
+Garri,Kebbi,1,623.53
+Garri,Kebbi,7,647.76
+Palm Oil,Kebbi,10,1612.85
+Groundnut,Kebbi,9,513.02
+Groundnut,Kebbi,3,701.77
+Groundnut,Kebbi,6,832.28
+Sorghum,Kebbi,8,734.52
+Sorghum,Kebbi,4,642.34
+Millet,Kebbi,8,610.25
+Wheat,Kebbi,6,1467.09
+Sugar,Kebbi,12,788.32
+Salt,Kebbi,3,213.14
+Salt,Kebbi,10,220.75
+Salt,Kebbi,2,229.23
+Salt,Kebbi,8,225.76
+Pepper,Kebbi,10,956.74
+Pepper,Kebbi,11,910.22
+Cocoa,Kebbi,11,2515.44
+Coffee,Kebbi,1,1325.61
+Coffee,Kebbi,9,2075.43
+Plantain,Kebbi,1,536.62
+Banana,Kebbi,5,587.13
+Sweet Potato,Kebbi,1,446.92
+Sweet Potato,Kebbi,12,235.59
+Irish Potato,Kebbi,3,545.45
+Irish Potato,Kebbi,11,812.91
+Irish Potato,Kebbi,4,515.7
+Cabbage,Kebbi,7,568.7
+Cabbage,Kebbi,5,650.55
+Cabbage,Kebbi,4,429.41
+Cabbage,Kebbi,2,588.21
+Carrot,Kebbi,6,794.99
+Carrot,Kebbi,8,638.66
+Carrot,Kebbi,2,793.66
+Okra,Kebbi,1,389.43
+Okra,Kebbi,2,370.73
+Eggplant,Kebbi,8,381.97
+Eggplant,Kebbi,6,587.98
+Eggplant,Kebbi,11,393.95
+Watermelon,Kebbi,5,525.9
+Watermelon,Kebbi,9,966.71
+Pineapple,Kebbi,10,611.9
+Orange,Kebbi,7,383.59
+Mango,Kebbi,1,298.7
+Rice,Kogi,2,1347.92
+Maize,Kogi,12,681.78
+Yam,Kogi,6,805.48
+Beans,Kogi,6,852.45
+Beans,Kogi,10,766.39
+Cassava,Kogi,10,262.54
+Tomato,Kogi,3,677.18
+Tomato,Kogi,10,932.49
+Onion,Kogi,5,630.09
+Onion,Kogi,10,879.15
+Onion,Kogi,7,945.96
+Garri,Kogi,7,393.7
+Garri,Kogi,5,570.44
+Garri,Kogi,12,647.92
+Garri,Kogi,8,406.27
+Palm Oil,Kogi,9,1891.71
+Palm Oil,Kogi,7,1966.34
+Palm Oil,Kogi,3,1442.56
+Palm Oil,Kogi,2,1008.9
+Groundnut,Kogi,7,897.93
+Sorghum,Kogi,9,644.94
+Sorghum,Kogi,7,872.54
+Sorghum,Kogi,5,396.4
+Sorghum,Kogi,1,467.03
+Millet,Kogi,4,528.99
+Millet,Kogi,12,770.11
+Millet,Kogi,11,588.37
+Wheat,Kogi,3,1526.02
+Wheat,Kogi,9,1263.42
+Sugar,Kogi,6,828.35
+Sugar,Kogi,9,721.31
+Salt,Kogi,8,142.75
+Salt,Kogi,4,231.26
+Pepper,Kogi,2,930.16
+Cocoa,Kogi,11,2709.6
+Cocoa,Kogi,3,2822.85
+Cocoa,Kogi,8,1922.68
+Cocoa,Kogi,6,1842.29
+Coffee,Kogi,6,2155.81
+Coffee,Kogi,4,2366.76
+Plantain,Kogi,1,455.5
+Plantain,Kogi,4,698.26
+Plantain,Kogi,5,410.98
+Plantain,Kogi,7,492.32
+Banana,Kogi,7,321.23
+Banana,Kogi,12,401.68
+Banana,Kogi,3,720.77
+Sweet Potato,Kogi,5,673.73
+Sweet Potato,Kogi,8,649.61
+Sweet Potato,Kogi,11,209.9
+Sweet Potato,Kogi,7,658.97
+Irish Potato,Kogi,4,958.07
+Irish Potato,Kogi,8,468.27
+Irish Potato,Kogi,12,778.92
+Cabbage,Kogi,1,447.75
+Cabbage,Kogi,7,589.51
+Cabbage,Kogi,3,331.92
+Carrot,Kogi,5,407.16
+Carrot,Kogi,2,419.06
+Carrot,Kogi,7,881.59
+Carrot,Kogi,9,402.2
+Okra,Kogi,8,620.53
+Okra,Kogi,6,553.86
+Okra,Kogi,2,467.05
+Okra,Kogi,10,508.23
+Eggplant,Kogi,8,285.27
+Eggplant,Kogi,5,204.39
+Eggplant,Kogi,7,282.58
+Eggplant,Kogi,2,306.21
+Watermelon,Kogi,1,422.53
+Watermelon,Kogi,8,884.3
+Watermelon,Kogi,11,806.94
+Pineapple,Kogi,12,706.38
+Pineapple,Kogi,11,611.06
+Pineapple,Kogi,6,781.69
+Orange,Kogi,5,338.63
+Mango,Kogi,3,238.02
+Mango,Kogi,12,319.15
+Mango,Kogi,7,292.56
+Rice,Kwara,2,1076.68
+Rice,Kwara,3,1171.28
+Rice,Kwara,7,1251.15
+Maize,Kwara,7,797.08
+Maize,Kwara,11,752.38
+Maize,Kwara,2,659.06
+Yam,Kwara,1,785.92
+Yam,Kwara,9,843.86
+Beans,Kwara,3,703.31
+Beans,Kwara,7,1409.07
+Beans,Kwara,9,1196.37
+Cassava,Kwara,10,356.54
+Cassava,Kwara,8,202.72
+Tomato,Kwara,11,572.53
+Tomato,Kwara,7,816.15
+Tomato,Kwara,6,800.02
+Onion,Kwara,6,514.97
+Onion,Kwara,12,766.54
+Garri,Kwara,7,301.14
+Garri,Kwara,6,421.66
+Garri,Kwara,2,352.69
+Palm Oil,Kwara,6,1171.37
+Palm Oil,Kwara,1,2260.23
+Groundnut,Kwara,6,664.48
+Sorghum,Kwara,6,860.23
+Millet,Kwara,2,428.72
+Millet,Kwara,9,300.59
+Wheat,Kwara,9,832.56
+Wheat,Kwara,7,1181.6
+Wheat,Kwara,11,1410.57
+Sugar,Kwara,12,603.94
+Sugar,Kwara,10,755.1
+Sugar,Kwara,8,654.28
+Salt,Kwara,10,112.67
+Salt,Kwara,2,162.59
+Pepper,Kwara,5,766.02
+Cocoa,Kwara,11,2847.99
+Coffee,Kwara,1,1542.39
+Coffee,Kwara,4,1118.68
+Coffee,Kwara,10,2149.89
+Plantain,Kwara,2,836.7
+Plantain,Kwara,8,699.21
+Banana,Kwara,6,398.95
+Banana,Kwara,2,497.32
+Banana,Kwara,3,612.33
+Banana,Kwara,1,637.41
+Sweet Potato,Kwara,12,534.29
+Sweet Potato,Kwara,6,685.73
+Sweet Potato,Kwara,11,260.69
+Sweet Potato,Kwara,9,462.96
+Irish Potato,Kwara,7,810.47
+Irish Potato,Kwara,5,650.82
+Cabbage,Kwara,4,383.71
+Cabbage,Kwara,6,530.95
+Cabbage,Kwara,7,351.56
+Cabbage,Kwara,11,483.61
+Carrot,Kwara,3,435.23
+Okra,Kwara,6,624.75
+Okra,Kwara,2,462.98
+Eggplant,Kwara,3,357.75
+Eggplant,Kwara,10,576.34
+Eggplant,Kwara,7,466.43
+Eggplant,Kwara,2,397.34
+Watermelon,Kwara,5,883.73
+Watermelon,Kwara,12,567.8
+Pineapple,Kwara,7,803.83
+Pineapple,Kwara,6,556.0
+Pineapple,Kwara,10,1177.81
+Pineapple,Kwara,8,982.12
+Orange,Kwara,2,277.15
+Orange,Kwara,6,247.22
+Orange,Kwara,9,544.74
+Mango,Kwara,5,339.16
+Mango,Kwara,11,450.41
+Rice,Lagos,3,1273.3
+Rice,Lagos,11,1033.99
+Maize,Lagos,6,565.0
+Yam,Lagos,4,933.61
+Yam,Lagos,12,745.19
+Yam,Lagos,2,787.85
+Beans,Lagos,5,928.42
+Beans,Lagos,11,1437.29
+Cassava,Lagos,1,474.68
+Cassava,Lagos,9,555.11
+Cassava,Lagos,4,529.47
+Tomato,Lagos,12,730.33
+Tomato,Lagos,1,551.21
+Tomato,Lagos,5,875.75
+Tomato,Lagos,10,999.86
+Onion,Lagos,11,780.3
+Garri,Lagos,10,572.42
+Palm Oil,Lagos,1,1879.6
+Palm Oil,Lagos,9,2447.85
+Palm Oil,Lagos,2,2063.71
+Palm Oil,Lagos,11,1455.02
+Groundnut,Lagos,8,984.27
+Groundnut,Lagos,12,1090.18
+Groundnut,Lagos,9,848.6
+Groundnut,Lagos,6,671.13
+Sorghum,Lagos,3,318.77
+Millet,Lagos,8,410.37
+Wheat,Lagos,3,933.99
+Wheat,Lagos,2,916.92
+Wheat,Lagos,1,1507.8
+Sugar,Lagos,4,969.55
+Salt,Lagos,3,169.63
+Pepper,Lagos,11,768.38
+Pepper,Lagos,5,902.21
+Pepper,Lagos,7,532.97
+Pepper,Lagos,12,692.32
+Cocoa,Lagos,8,2354.22
+Cocoa,Lagos,3,1983.83
+Cocoa,Lagos,4,1739.69
+Cocoa,Lagos,11,1835.3
+Coffee,Lagos,7,1076.34
+Plantain,Lagos,2,452.37
+Plantain,Lagos,4,805.96
+Plantain,Lagos,6,655.49
+Banana,Lagos,7,411.08
+Banana,Lagos,4,415.24
+Sweet Potato,Lagos,6,252.47
+Sweet Potato,Lagos,5,501.3
+Sweet Potato,Lagos,2,507.67
+Sweet Potato,Lagos,7,305.71
+Irish Potato,Lagos,9,889.99
+Irish Potato,Lagos,12,545.87
+Cabbage,Lagos,8,662.25
+Cabbage,Lagos,6,591.74
+Cabbage,Lagos,12,679.65
+Cabbage,Lagos,9,374.43
+Carrot,Lagos,5,775.99
+Carrot,Lagos,8,704.76
+Carrot,Lagos,10,530.94
+Carrot,Lagos,6,716.11
+Okra,Lagos,3,560.17
+Okra,Lagos,7,613.59
+Okra,Lagos,6,326.01
+Eggplant,Lagos,12,564.33
+Eggplant,Lagos,8,558.25
+Eggplant,Lagos,5,503.73
+Watermelon,Lagos,12,870.06
+Watermelon,Lagos,1,750.74
+Pineapple,Lagos,10,954.05
+Pineapple,Lagos,9,1039.42
+Pineapple,Lagos,8,577.9
+Pineapple,Lagos,5,687.0
+Orange,Lagos,5,224.08
+Orange,Lagos,6,336.95
+Orange,Lagos,7,434.85
+Mango,Lagos,1,420.81
+Rice,Nasarawa,3,1125.8
+Rice,Nasarawa,7,1134.91
+Maize,Nasarawa,12,422.06
+Maize,Nasarawa,7,753.37
+Maize,Nasarawa,4,488.23
+Yam,Nasarawa,6,754.29
+Yam,Nasarawa,9,611.28
+Yam,Nasarawa,5,902.84
+Beans,Nasarawa,7,1033.96
+Beans,Nasarawa,6,769.79
+Beans,Nasarawa,4,806.42
+Beans,Nasarawa,3,1174.08
+Cassava,Nasarawa,11,414.52
+Cassava,Nasarawa,2,520.63
+Cassava,Nasarawa,4,471.7
+Tomato,Nasarawa,4,424.65
+Tomato,Nasarawa,10,889.8
+Onion,Nasarawa,5,707.13
+Onion,Nasarawa,4,625.8
+Onion,Nasarawa,9,889.57
+Onion,Nasarawa,11,714.61
+Garri,Nasarawa,1,545.39
+Garri,Nasarawa,10,554.03
+Garri,Nasarawa,12,407.22
+Palm Oil,Nasarawa,7,1580.36
+Palm Oil,Nasarawa,6,1838.6
+Palm Oil,Nasarawa,9,1818.88
+Groundnut,Nasarawa,5,602.62
+Groundnut,Nasarawa,4,572.51
+Sorghum,Nasarawa,1,483.75
+Sorghum,Nasarawa,7,738.36
+Sorghum,Nasarawa,5,383.97
+Millet,Nasarawa,12,569.26
+Millet,Nasarawa,3,335.53
+Wheat,Nasarawa,10,870.8
+Sugar,Nasarawa,1,955.48
+Sugar,Nasarawa,7,859.9
+Sugar,Nasarawa,11,694.03
+Sugar,Nasarawa,5,651.52
+Salt,Nasarawa,7,151.25
+Salt,Nasarawa,3,239.24
+Pepper,Nasarawa,4,691.61
+Pepper,Nasarawa,12,708.41
+Pepper,Nasarawa,8,824.12
+Pepper,Nasarawa,2,737.2
+Cocoa,Nasarawa,4,2894.48
+Cocoa,Nasarawa,12,1958.34
+Cocoa,Nasarawa,8,1810.21
+Coffee,Nasarawa,10,1843.7
+Plantain,Nasarawa,4,640.73
+Plantain,Nasarawa,1,698.42
+Plantain,Nasarawa,6,469.13
+Banana,Nasarawa,5,621.43
+Banana,Nasarawa,11,519.3
+Banana,Nasarawa,8,618.7
+Banana,Nasarawa,9,496.23
+Sweet Potato,Nasarawa,1,258.03
+Sweet Potato,Nasarawa,8,458.57
+Sweet Potato,Nasarawa,9,608.25
+Sweet Potato,Nasarawa,7,576.59
+Irish Potato,Nasarawa,8,916.46
+Cabbage,Nasarawa,10,332.91
+Cabbage,Nasarawa,11,685.07
+Cabbage,Nasarawa,7,688.27
+Carrot,Nasarawa,12,644.61
+Carrot,Nasarawa,11,659.46
+Carrot,Nasarawa,7,606.6
+Carrot,Nasarawa,1,779.4
+Okra,Nasarawa,2,401.44
+Okra,Nasarawa,9,607.65
+Okra,Nasarawa,5,628.88
+Eggplant,Nasarawa,12,425.81
+Eggplant,Nasarawa,9,493.03
+Eggplant,Nasarawa,6,524.29
+Watermelon,Nasarawa,5,773.85
+Watermelon,Nasarawa,9,463.75
+Pineapple,Nasarawa,3,1181.84
+Pineapple,Nasarawa,5,1076.17
+Pineapple,Nasarawa,12,750.99
+Pineapple,Nasarawa,8,635.07
+Orange,Nasarawa,11,311.69
+Orange,Nasarawa,8,598.27
+Orange,Nasarawa,1,522.51
+Mango,Nasarawa,1,216.15
+Mango,Nasarawa,9,563.37
+Mango,Nasarawa,6,384.2
+Mango,Nasarawa,5,307.43
+Rice,Niger,10,852.49
+Rice,Niger,7,954.54
+Maize,Niger,5,766.57
+Maize,Niger,12,725.62
+Maize,Niger,9,683.64
+Maize,Niger,2,572.35
+Yam,Niger,8,856.04
+Yam,Niger,2,1151.3
+Yam,Niger,11,1156.12
+Yam,Niger,9,900.85
+Beans,Niger,9,1089.13
+Cassava,Niger,3,452.88
+Cassava,Niger,1,241.97
+Tomato,Niger,3,681.2
+Onion,Niger,6,992.14
+Garri,Niger,6,370.52
+Garri,Niger,4,559.45
+Garri,Niger,9,413.43
+Palm Oil,Niger,10,1024.28
+Palm Oil,Niger,9,2285.5
+Palm Oil,Niger,8,1471.26
+Groundnut,Niger,7,788.8
+Groundnut,Niger,12,995.22
+Sorghum,Niger,11,643.57
+Sorghum,Niger,7,572.6
+Sorghum,Niger,12,600.06
+Sorghum,Niger,10,580.86
+Millet,Niger,4,336.22
+Millet,Niger,12,773.83
+Millet,Niger,8,733.23
+Wheat,Niger,1,1524.86
+Sugar,Niger,11,818.13
+Sugar,Niger,2,747.22
+Salt,Niger,5,197.21
+Salt,Niger,3,226.39
+Pepper,Niger,3,994.26
+Pepper,Niger,1,900.11
+Pepper,Niger,9,750.32
+Cocoa,Niger,2,2914.58
+Cocoa,Niger,11,2954.38
+Cocoa,Niger,12,2410.23
+Cocoa,Niger,9,2605.99
+Coffee,Niger,3,1073.46
+Coffee,Niger,12,1207.85
+Coffee,Niger,4,1849.67
+Plantain,Niger,11,648.53
+Plantain,Niger,9,401.58
+Banana,Niger,12,717.69
+Banana,Niger,3,301.6
+Banana,Niger,9,578.58
+Banana,Niger,11,797.94
+Sweet Potato,Niger,11,332.02
+Sweet Potato,Niger,8,616.26
+Sweet Potato,Niger,7,450.32
+Sweet Potato,Niger,3,243.6
+Irish Potato,Niger,4,969.72
+Irish Potato,Niger,6,575.21
+Cabbage,Niger,4,419.18
+Cabbage,Niger,10,300.06
+Carrot,Niger,4,777.31
+Carrot,Niger,3,684.1
+Carrot,Niger,7,723.65
+Okra,Niger,7,379.34
+Okra,Niger,6,324.88
+Okra,Niger,8,378.72
+Eggplant,Niger,1,201.16
+Eggplant,Niger,12,294.97
+Eggplant,Niger,8,395.4
+Eggplant,Niger,10,594.03
+Watermelon,Niger,9,699.51
+Pineapple,Niger,4,844.88
+Pineapple,Niger,12,631.15
+Pineapple,Niger,9,602.64
+Pineapple,Niger,7,975.87
+Orange,Niger,6,392.36
+Orange,Niger,1,405.71
+Orange,Niger,3,448.98
+Mango,Niger,9,286.59
+Mango,Niger,5,374.27
+Rice,Ogun,7,1207.49
+Rice,Ogun,4,1395.28
+Rice,Ogun,6,863.02
+Maize,Ogun,2,302.93
+Maize,Ogun,10,459.05
+Yam,Ogun,7,1059.59
+Beans,Ogun,11,731.97
+Cassava,Ogun,6,244.35
+Tomato,Ogun,12,819.53
+Tomato,Ogun,8,613.91
+Tomato,Ogun,2,565.6
+Onion,Ogun,5,755.59
+Garri,Ogun,10,783.09
+Palm Oil,Ogun,5,1859.27
+Palm Oil,Ogun,11,1077.38
+Palm Oil,Ogun,6,2477.86
+Groundnut,Ogun,5,577.09
+Groundnut,Ogun,10,1047.87
+Groundnut,Ogun,9,1026.23
+Sorghum,Ogun,5,664.85
+Millet,Ogun,11,466.81
+Millet,Ogun,3,630.2
+Wheat,Ogun,8,1499.53
+Wheat,Ogun,6,956.92
+Sugar,Ogun,7,779.44
+Salt,Ogun,4,167.26
+Salt,Ogun,6,152.89
+Salt,Ogun,3,156.04
+Pepper,Ogun,7,747.47
+Cocoa,Ogun,11,2402.1
+Cocoa,Ogun,9,2356.91
+Cocoa,Ogun,4,2679.79
+Coffee,Ogun,1,1095.55
+Coffee,Ogun,9,1723.81
+Coffee,Ogun,11,1074.3
+Plantain,Ogun,8,827.13
+Plantain,Ogun,10,929.13
+Plantain,Ogun,5,404.92
+Plantain,Ogun,2,615.31
+Banana,Ogun,1,500.25
+Sweet Potato,Ogun,11,403.86
+Sweet Potato,Ogun,12,596.85
+Sweet Potato,Ogun,8,619.01
+Irish Potato,Ogun,7,928.2
+Irish Potato,Ogun,4,536.26
+Irish Potato,Ogun,5,734.93
+Irish Potato,Ogun,10,709.64
+Cabbage,Ogun,10,655.65
+Cabbage,Ogun,4,329.67
+Cabbage,Ogun,12,436.73
+Carrot,Ogun,10,530.67
+Carrot,Ogun,4,494.04
+Okra,Ogun,2,561.88
+Eggplant,Ogun,4,349.88
+Eggplant,Ogun,5,268.17
+Eggplant,Ogun,6,304.3
+Watermelon,Ogun,12,582.21
+Watermelon,Ogun,2,578.38
+Pineapple,Ogun,9,654.42
+Pineapple,Ogun,7,661.18
+Pineapple,Ogun,5,878.61
+Orange,Ogun,8,298.87
+Orange,Ogun,3,453.06
+Orange,Ogun,12,566.65
+Orange,Ogun,10,351.04
+Mango,Ogun,10,488.85
+Mango,Ogun,7,316.03
+Rice,Ondo,2,848.72
+Rice,Ondo,4,1438.79
+Rice,Ondo,6,1306.2
+Maize,Ondo,4,766.61
+Yam,Ondo,12,1071.11
+Yam,Ondo,6,922.65
+Yam,Ondo,5,1008.82
+Yam,Ondo,11,736.7
+Beans,Ondo,3,1149.08
+Beans,Ondo,4,869.84
+Cassava,Ondo,10,479.71
+Cassava,Ondo,4,394.9
+Cassava,Ondo,5,418.9
+Tomato,Ondo,9,495.63
+Tomato,Ondo,7,761.83
+Tomato,Ondo,1,651.86
+Tomato,Ondo,5,666.23
+Onion,Ondo,3,725.83
+Onion,Ondo,2,684.6
+Onion,Ondo,9,970.47
+Garri,Ondo,7,433.95
+Garri,Ondo,11,725.95
+Palm Oil,Ondo,11,1524.24
+Groundnut,Ondo,9,542.26
+Groundnut,Ondo,7,1010.38
+Groundnut,Ondo,6,1154.11
+Groundnut,Ondo,3,1114.83
+Sorghum,Ondo,5,869.62
+Sorghum,Ondo,12,619.99
+Sorghum,Ondo,8,653.48
+Sorghum,Ondo,7,320.06
+Millet,Ondo,5,499.72
+Millet,Ondo,7,851.04
+Wheat,Ondo,7,1285.05
+Wheat,Ondo,10,1022.32
+Wheat,Ondo,5,1225.83
+Sugar,Ondo,10,921.29
+Sugar,Ondo,9,810.56
+Salt,Ondo,3,115.85
+Salt,Ondo,7,168.61
+Pepper,Ondo,10,687.26
+Pepper,Ondo,11,657.06
+Cocoa,Ondo,3,2441.34
+Coffee,Ondo,11,1646.98
+Coffee,Ondo,6,1372.29
+Coffee,Ondo,8,1184.99
+Coffee,Ondo,5,1321.85
+Plantain,Ondo,8,944.23
+Plantain,Ondo,5,688.21
+Plantain,Ondo,1,956.13
+Banana,Ondo,8,512.64
+Banana,Ondo,3,521.53
+Banana,Ondo,5,697.99
+Banana,Ondo,6,753.44
+Sweet Potato,Ondo,2,332.49
+Irish Potato,Ondo,3,755.01
+Cabbage,Ondo,1,451.27
+Carrot,Ondo,8,782.51
+Carrot,Ondo,5,769.57
+Carrot,Ondo,10,796.5
+Carrot,Ondo,3,707.4
+Okra,Ondo,1,416.23
+Eggplant,Ondo,8,335.72
+Eggplant,Ondo,2,581.99
+Watermelon,Ondo,6,830.43
+Watermelon,Ondo,9,827.06
+Watermelon,Ondo,5,642.11
+Pineapple,Ondo,2,746.75
+Pineapple,Ondo,1,832.69
+Pineapple,Ondo,8,910.32
+Orange,Ondo,6,413.58
+Orange,Ondo,5,358.94
+Orange,Ondo,12,255.33
+Mango,Ondo,8,275.13
+Mango,Ondo,3,333.97
+Rice,Osun,5,922.22
+Maize,Osun,4,322.28
+Maize,Osun,3,424.23
+Yam,Osun,10,920.63
+Beans,Osun,4,912.29
+Beans,Osun,11,824.09
+Beans,Osun,10,1120.23
+Beans,Osun,7,1185.4
+Cassava,Osun,12,462.62
+Cassava,Osun,5,253.96
+Cassava,Osun,3,478.88
+Cassava,Osun,4,310.07
+Tomato,Osun,7,841.35
+Tomato,Osun,10,607.99
+Tomato,Osun,5,770.86
+Tomato,Osun,6,572.41
+Onion,Osun,9,643.31
+Onion,Osun,10,951.5
+Onion,Osun,12,600.88
+Garri,Osun,4,643.18
+Garri,Osun,12,452.59
+Palm Oil,Osun,9,1244.08
+Groundnut,Osun,3,859.45
+Sorghum,Osun,8,788.51
+Sorghum,Osun,4,444.13
+Sorghum,Osun,12,793.62
+Millet,Osun,12,543.25
+Millet,Osun,1,888.75
+Millet,Osun,2,537.33
+Millet,Osun,11,466.72
+Wheat,Osun,2,1382.6
+Sugar,Osun,11,687.12
+Sugar,Osun,1,931.96
+Sugar,Osun,8,723.22
+Sugar,Osun,5,695.96
+Salt,Osun,11,154.74
+Salt,Osun,12,142.45
+Salt,Osun,7,122.47
+Pepper,Osun,6,850.63
+Pepper,Osun,3,892.3
+Pepper,Osun,7,584.06
+Cocoa,Osun,3,2455.06
+Coffee,Osun,5,1558.04
+Coffee,Osun,10,1756.37
+Coffee,Osun,12,1063.64
+Coffee,Osun,6,1132.26
+Plantain,Osun,12,863.11
+Plantain,Osun,6,776.96
+Plantain,Osun,4,527.05
+Plantain,Osun,3,689.52
+Banana,Osun,12,511.08
+Sweet Potato,Osun,10,627.87
+Sweet Potato,Osun,2,318.61
+Sweet Potato,Osun,4,218.29
+Sweet Potato,Osun,9,608.76
+Irish Potato,Osun,3,688.47
+Irish Potato,Osun,8,845.51
+Irish Potato,Osun,12,499.89
+Irish Potato,Osun,2,536.18
+Cabbage,Osun,3,345.13
+Cabbage,Osun,10,458.65
+Cabbage,Osun,8,413.76
+Cabbage,Osun,5,456.39
+Carrot,Osun,12,846.38
+Okra,Osun,8,444.71
+Eggplant,Osun,1,553.16
+Eggplant,Osun,6,391.86
+Eggplant,Osun,7,479.9
+Eggplant,Osun,12,570.24
+Watermelon,Osun,7,592.11
+Watermelon,Osun,8,805.07
+Watermelon,Osun,4,843.28
+Watermelon,Osun,9,407.46
+Pineapple,Osun,6,987.66
+Pineapple,Osun,10,1103.34
+Orange,Osun,4,233.67
+Orange,Osun,10,202.77
+Orange,Osun,6,490.68
+Mango,Osun,12,305.96
+Mango,Osun,11,542.98
+Mango,Osun,6,258.66
+Rice,Oyo,3,1193.24
+Rice,Oyo,12,1207.52
+Rice,Oyo,6,978.93
+Maize,Oyo,9,343.79
+Maize,Oyo,8,527.5
+Yam,Oyo,12,710.56
+Beans,Oyo,3,1458.24
+Cassava,Oyo,7,303.81
+Cassava,Oyo,3,274.27
+Tomato,Oyo,11,550.5
+Tomato,Oyo,12,852.62
+Onion,Oyo,8,539.94
+Onion,Oyo,4,855.89
+Onion,Oyo,3,532.57
+Garri,Oyo,12,428.62
+Garri,Oyo,4,795.48
+Garri,Oyo,2,606.21
+Palm Oil,Oyo,5,2404.45
+Groundnut,Oyo,6,591.51
+Groundnut,Oyo,10,952.05
+Groundnut,Oyo,8,1099.92
+Sorghum,Oyo,10,607.9
+Millet,Oyo,8,574.19
+Millet,Oyo,4,516.09
+Wheat,Oyo,1,812.7
+Wheat,Oyo,5,1076.56
+Wheat,Oyo,6,1569.13
+Sugar,Oyo,9,851.47
+Sugar,Oyo,12,626.69
+Sugar,Oyo,2,956.51
+Salt,Oyo,2,239.31
+Salt,Oyo,7,154.85
+Pepper,Oyo,6,914.18
+Pepper,Oyo,9,763.33
+Pepper,Oyo,8,591.37
+Pepper,Oyo,3,611.89
+Cocoa,Oyo,4,1805.39
+Cocoa,Oyo,3,2488.5
+Cocoa,Oyo,1,2811.05
+Coffee,Oyo,1,2089.77
+Coffee,Oyo,11,1039.72
+Plantain,Oyo,7,541.43
+Plantain,Oyo,12,564.7
+Plantain,Oyo,10,618.19
+Banana,Oyo,1,772.84
+Sweet Potato,Oyo,1,289.35
+Sweet Potato,Oyo,5,603.69
+Irish Potato,Oyo,2,888.55
+Irish Potato,Oyo,8,629.15
+Irish Potato,Oyo,7,537.42
+Irish Potato,Oyo,1,567.74
+Cabbage,Oyo,4,445.24
+Cabbage,Oyo,1,521.02
+Carrot,Oyo,2,615.97
+Carrot,Oyo,10,606.51
+Okra,Oyo,11,663.45
+Okra,Oyo,7,334.83
+Okra,Oyo,6,459.57
+Okra,Oyo,4,674.8
+Eggplant,Oyo,9,573.47
+Watermelon,Oyo,12,473.53
+Watermelon,Oyo,7,729.2
+Watermelon,Oyo,5,537.72
+Pineapple,Oyo,6,554.22
+Pineapple,Oyo,7,521.13
+Pineapple,Oyo,10,1199.79
+Pineapple,Oyo,4,846.59
+Orange,Oyo,1,259.02
+Orange,Oyo,11,439.14
+Orange,Oyo,7,473.82
+Orange,Oyo,5,214.26
+Mango,Oyo,10,598.49
+Mango,Oyo,12,320.43
+Mango,Oyo,11,314.7
+Mango,Oyo,1,340.13
+Rice,Plateau,8,923.51
+Rice,Plateau,4,1012.01
+Maize,Plateau,3,696.66
+Maize,Plateau,7,509.98
+Yam,Plateau,9,936.93
+Yam,Plateau,6,1080.11
+Beans,Plateau,10,1325.37
+Cassava,Plateau,2,465.08
+Cassava,Plateau,6,310.16
+Cassava,Plateau,12,260.42
+Cassava,Plateau,9,403.18
+Tomato,Plateau,8,929.25
+Tomato,Plateau,2,530.78
+Tomato,Plateau,4,403.86
+Tomato,Plateau,6,822.46
+Onion,Plateau,9,547.69
+Onion,Plateau,2,690.52
+Onion,Plateau,10,912.45
+Garri,Plateau,10,307.58
+Palm Oil,Plateau,3,1032.58
+Palm Oil,Plateau,7,1499.85
+Groundnut,Plateau,1,879.75
+Groundnut,Plateau,4,761.78
+Sorghum,Plateau,2,414.8
+Sorghum,Plateau,7,573.05
+Millet,Plateau,9,814.54
+Wheat,Plateau,10,1312.42
+Wheat,Plateau,9,1521.71
+Wheat,Plateau,8,1193.16
+Wheat,Plateau,6,839.32
+Sugar,Plateau,9,948.88
+Sugar,Plateau,5,867.49
+Sugar,Plateau,2,920.52
+Salt,Plateau,2,204.91
+Pepper,Plateau,1,825.16
+Pepper,Plateau,11,630.19
+Pepper,Plateau,4,977.73
+Pepper,Plateau,6,851.3
+Cocoa,Plateau,11,1844.89
+Cocoa,Plateau,1,2307.51
+Cocoa,Plateau,7,2592.61
+Cocoa,Plateau,6,2555.68
+Coffee,Plateau,9,1590.12
+Coffee,Plateau,5,1982.45
+Coffee,Plateau,4,2275.43
+Coffee,Plateau,12,1569.46
+Plantain,Plateau,9,679.83
+Banana,Plateau,7,413.69
+Banana,Plateau,8,718.51
+Banana,Plateau,6,334.96
+Sweet Potato,Plateau,2,667.58
+Sweet Potato,Plateau,9,475.39
+Sweet Potato,Plateau,7,297.64
+Sweet Potato,Plateau,10,292.89
+Irish Potato,Plateau,9,935.28
+Irish Potato,Plateau,12,978.32
+Irish Potato,Plateau,11,931.81
+Cabbage,Plateau,7,555.71
+Carrot,Plateau,12,461.26
+Okra,Plateau,6,374.55
+Okra,Plateau,1,330.7
+Okra,Plateau,11,585.31
+Okra,Plateau,10,355.06
+Eggplant,Plateau,10,292.35
+Eggplant,Plateau,12,324.65
+Eggplant,Plateau,1,428.64
+Eggplant,Plateau,9,550.72
+Watermelon,Plateau,9,771.71
+Watermelon,Plateau,11,748.77
+Watermelon,Plateau,6,587.6
+Watermelon,Plateau,8,796.06
+Pineapple,Plateau,1,739.93
+Pineapple,Plateau,7,741.13
+Pineapple,Plateau,4,969.1
+Orange,Plateau,8,274.85
+Orange,Plateau,1,255.71
+Mango,Plateau,9,542.05
+Rice,Rivers,1,898.89
+Maize,Rivers,5,419.77
+Maize,Rivers,12,773.24
+Maize,Rivers,10,649.14
+Maize,Rivers,8,744.97
+Yam,Rivers,12,1048.49
+Yam,Rivers,8,1073.06
+Yam,Rivers,5,946.62
+Beans,Rivers,7,1091.43
+Beans,Rivers,9,995.2
+Beans,Rivers,3,1493.19
+Beans,Rivers,8,1328.39
+Cassava,Rivers,9,306.96
+Tomato,Rivers,12,860.17
+Onion,Rivers,7,537.37
+Garri,Rivers,7,765.74
+Garri,Rivers,10,498.27
+Garri,Rivers,3,650.12
+Garri,Rivers,11,673.45
+Palm Oil,Rivers,3,1409.92
+Groundnut,Rivers,8,638.77
+Groundnut,Rivers,12,741.47
+Sorghum,Rivers,10,565.71
+Sorghum,Rivers,5,430.67
+Millet,Rivers,5,455.61
+Millet,Rivers,8,674.36
+Millet,Rivers,2,455.17
+Millet,Rivers,4,529.06
+Wheat,Rivers,5,1101.86
+Wheat,Rivers,6,884.39
+Sugar,Rivers,11,734.15
+Sugar,Rivers,9,784.69
+Sugar,Rivers,1,823.09
+Sugar,Rivers,5,955.97
+Salt,Rivers,2,141.63
+Salt,Rivers,5,192.16
+Pepper,Rivers,9,677.99
+Pepper,Rivers,10,882.75
+Cocoa,Rivers,1,2242.59
+Cocoa,Rivers,12,2359.66
+Cocoa,Rivers,11,1761.74
+Coffee,Rivers,1,1014.31
+Coffee,Rivers,5,1825.48
+Plantain,Rivers,11,925.8
+Banana,Rivers,11,675.44
+Banana,Rivers,4,382.96
+Banana,Rivers,10,536.13
+Banana,Rivers,9,502.25
+Sweet Potato,Rivers,6,422.26
+Sweet Potato,Rivers,2,459.94
+Irish Potato,Rivers,2,649.73
+Irish Potato,Rivers,12,504.54
+Cabbage,Rivers,7,407.55
+Carrot,Rivers,2,510.56
+Carrot,Rivers,8,532.32
+Okra,Rivers,10,620.53
+Eggplant,Rivers,1,286.11
+Eggplant,Rivers,2,215.38
+Eggplant,Rivers,12,546.03
+Watermelon,Rivers,1,607.28
+Watermelon,Rivers,6,684.18
+Watermelon,Rivers,2,633.24
+Watermelon,Rivers,12,591.1
+Pineapple,Rivers,8,1097.4
+Pineapple,Rivers,5,560.05
+Pineapple,Rivers,7,1032.11
+Pineapple,Rivers,6,1119.46
+Orange,Rivers,5,241.38
+Orange,Rivers,7,575.92
+Mango,Rivers,12,546.39
+Rice,Sokoto,11,1075.13
+Rice,Sokoto,7,956.84
+Maize,Sokoto,3,507.44
+Yam,Sokoto,3,651.49
+Beans,Sokoto,7,1470.39
+Beans,Sokoto,12,823.28
+Beans,Sokoto,10,1440.2
+Beans,Sokoto,5,1068.89
+Cassava,Sokoto,4,483.82
+Cassava,Sokoto,7,408.66
+Tomato,Sokoto,3,895.42
+Tomato,Sokoto,2,610.51
+Tomato,Sokoto,11,430.04
+Tomato,Sokoto,9,401.72
+Onion,Sokoto,12,736.41
+Onion,Sokoto,3,941.66
+Onion,Sokoto,1,860.37
+Garri,Sokoto,6,708.61
+Palm Oil,Sokoto,9,2397.1
+Palm Oil,Sokoto,2,1862.38
+Palm Oil,Sokoto,10,1631.18
+Palm Oil,Sokoto,4,1138.28
+Groundnut,Sokoto,7,687.52
+Sorghum,Sokoto,9,597.0
+Sorghum,Sokoto,12,797.17
+Sorghum,Sokoto,4,678.9
+Sorghum,Sokoto,11,729.93
+Millet,Sokoto,4,819.11
+Millet,Sokoto,1,771.29
+Wheat,Sokoto,6,916.89
+Wheat,Sokoto,3,1455.03
+Wheat,Sokoto,10,965.89
+Wheat,Sokoto,9,1553.6
+Sugar,Sokoto,12,736.81
+Sugar,Sokoto,10,920.82
+Salt,Sokoto,6,119.03
+Pepper,Sokoto,3,854.75
+Cocoa,Sokoto,8,1971.23
+Cocoa,Sokoto,1,2270.11
+Coffee,Sokoto,11,1606.34
+Coffee,Sokoto,2,1759.72
+Coffee,Sokoto,10,1643.62
+Plantain,Sokoto,2,958.46
+Banana,Sokoto,7,753.63
+Sweet Potato,Sokoto,5,596.92
+Sweet Potato,Sokoto,10,374.55
+Sweet Potato,Sokoto,7,353.97
+Sweet Potato,Sokoto,4,211.75
+Irish Potato,Sokoto,10,512.1
+Cabbage,Sokoto,6,558.7
+Carrot,Sokoto,10,772.68
+Okra,Sokoto,10,607.95
+Okra,Sokoto,6,519.11
+Eggplant,Sokoto,3,220.09
+Eggplant,Sokoto,1,317.96
+Eggplant,Sokoto,8,262.8
+Eggplant,Sokoto,6,517.36
+Watermelon,Sokoto,9,872.9
+Watermelon,Sokoto,2,558.8
+Watermelon,Sokoto,4,795.2
+Watermelon,Sokoto,11,760.12
+Pineapple,Sokoto,8,581.16
+Pineapple,Sokoto,3,541.39
+Pineapple,Sokoto,10,866.97
+Orange,Sokoto,4,223.12
+Orange,Sokoto,6,581.36
+Mango,Sokoto,11,246.4
+Mango,Sokoto,3,386.13
+Mango,Sokoto,10,468.81
+Mango,Sokoto,4,404.91
+Rice,Taraba,7,904.28
+Maize,Taraba,10,773.14
+Maize,Taraba,5,731.04
+Maize,Taraba,2,594.89
+Yam,Taraba,11,1035.18
+Beans,Taraba,2,1215.98
+Beans,Taraba,11,1346.36
+Cassava,Taraba,10,402.15
+Cassava,Taraba,6,251.13
+Cassava,Taraba,2,296.9
+Cassava,Taraba,12,430.77
+Tomato,Taraba,8,432.47
+Tomato,Taraba,10,416.19
+Tomato,Taraba,9,635.94
+Tomato,Taraba,3,705.12
+Onion,Taraba,1,685.51
+Onion,Taraba,12,972.84
+Garri,Taraba,9,726.96
+Garri,Taraba,7,411.86
+Palm Oil,Taraba,4,2465.78
+Palm Oil,Taraba,6,1560.01
+Groundnut,Taraba,5,1191.9
+Groundnut,Taraba,7,848.37
+Sorghum,Taraba,1,707.79
+Sorghum,Taraba,8,716.19
+Millet,Taraba,8,524.91
+Millet,Taraba,6,389.24
+Millet,Taraba,2,756.72
+Millet,Taraba,11,627.15
+Wheat,Taraba,8,856.03
+Sugar,Taraba,9,896.47
+Sugar,Taraba,7,964.3
+Sugar,Taraba,5,920.56
+Salt,Taraba,1,269.17
+Pepper,Taraba,4,736.17
+Pepper,Taraba,1,989.15
+Pepper,Taraba,2,578.71
+Pepper,Taraba,11,721.4
+Cocoa,Taraba,10,2062.04
+Cocoa,Taraba,8,1772.58
+Coffee,Taraba,12,2123.91
+Coffee,Taraba,9,1521.9
+Coffee,Taraba,3,2110.01
+Coffee,Taraba,6,1107.39
+Plantain,Taraba,6,921.95
+Plantain,Taraba,2,797.15
+Banana,Taraba,5,555.38
+Banana,Taraba,11,728.44
+Banana,Taraba,2,746.43
+Sweet Potato,Taraba,2,624.74
+Sweet Potato,Taraba,4,479.64
+Sweet Potato,Taraba,5,247.94
+Irish Potato,Taraba,2,911.96
+Cabbage,Taraba,10,523.88
+Carrot,Taraba,7,788.82
+Carrot,Taraba,9,720.61
+Carrot,Taraba,12,702.27
+Carrot,Taraba,3,532.39
+Okra,Taraba,7,568.6
+Okra,Taraba,1,607.39
+Okra,Taraba,4,597.63
+Okra,Taraba,8,348.56
+Eggplant,Taraba,10,209.28
+Eggplant,Taraba,3,425.81
+Watermelon,Taraba,7,825.85
+Watermelon,Taraba,2,894.19
+Pineapple,Taraba,12,1194.35
+Pineapple,Taraba,2,1126.9
+Pineapple,Taraba,10,1137.19
+Pineapple,Taraba,3,989.14
+Orange,Taraba,9,548.04
+Orange,Taraba,7,543.92
+Mango,Taraba,4,213.16
+Mango,Taraba,5,569.78
+Mango,Taraba,10,277.96
+Mango,Taraba,3,420.39
+Rice,Yobe,2,1216.87
+Rice,Yobe,1,1342.13
+Maize,Yobe,6,533.91
+Maize,Yobe,7,304.6
+Maize,Yobe,10,316.26
+Maize,Yobe,9,602.24
+Yam,Yobe,3,1157.1
+Yam,Yobe,8,1168.25
+Yam,Yobe,5,1141.92
+Yam,Yobe,11,602.47
+Beans,Yobe,3,739.31
+Beans,Yobe,7,1467.05
+Cassava,Yobe,6,440.91
+Tomato,Yobe,4,658.59
+Tomato,Yobe,6,505.55
+Tomato,Yobe,1,894.33
+Tomato,Yobe,11,564.42
+Onion,Yobe,10,957.6
+Onion,Yobe,6,502.81
+Onion,Yobe,2,579.99
+Garri,Yobe,10,592.67
+Garri,Yobe,12,549.23
+Garri,Yobe,1,713.15
+Palm Oil,Yobe,6,1615.81
+Palm Oil,Yobe,8,1184.73
+Palm Oil,Yobe,1,1418.95
+Groundnut,Yobe,12,739.71
+Groundnut,Yobe,5,675.15
+Groundnut,Yobe,11,940.48
+Groundnut,Yobe,7,1084.16
+Sorghum,Yobe,9,598.61
+Sorghum,Yobe,4,472.62
+Millet,Yobe,5,620.42
+Wheat,Yobe,12,1437.98
+Sugar,Yobe,4,725.56
+Salt,Yobe,3,285.72
+Salt,Yobe,4,223.71
+Salt,Yobe,2,116.79
+Salt,Yobe,11,285.73
+Pepper,Yobe,1,861.79
+Cocoa,Yobe,8,1569.7
+Cocoa,Yobe,1,2795.71
+Cocoa,Yobe,5,2338.94
+Cocoa,Yobe,4,2557.83
+Coffee,Yobe,2,1966.18
+Coffee,Yobe,10,2418.41
+Coffee,Yobe,1,2241.39
+Coffee,Yobe,3,1821.63
+Plantain,Yobe,3,447.84
+Plantain,Yobe,5,725.56
+Plantain,Yobe,10,659.22
+Banana,Yobe,10,422.06
+Banana,Yobe,12,743.25
+Sweet Potato,Yobe,11,447.98
+Irish Potato,Yobe,6,830.04
+Cabbage,Yobe,7,545.02
+Cabbage,Yobe,6,419.59
+Cabbage,Yobe,2,314.84
+Carrot,Yobe,2,631.97
+Carrot,Yobe,5,750.33
+Carrot,Yobe,12,457.32
+Okra,Yobe,1,456.67
+Eggplant,Yobe,6,526.35
+Eggplant,Yobe,11,504.01
+Eggplant,Yobe,8,303.18
+Watermelon,Yobe,8,579.38
+Pineapple,Yobe,5,744.95
+Pineapple,Yobe,11,803.09
+Orange,Yobe,12,444.96
+Orange,Yobe,6,300.18
+Orange,Yobe,7,563.32
+Mango,Yobe,4,564.07
+Mango,Yobe,8,531.91
+Rice,Zamfara,10,1104.49
+Rice,Zamfara,6,906.64
+Rice,Zamfara,9,994.53
+Rice,Zamfara,5,1131.77
+Maize,Zamfara,1,661.52
+Maize,Zamfara,9,493.57
+Maize,Zamfara,11,586.53
+Yam,Zamfara,12,1198.75
+Yam,Zamfara,1,1063.59
+Yam,Zamfara,5,881.79
+Yam,Zamfara,10,764.64
+Beans,Zamfara,4,1350.42
+Cassava,Zamfara,2,514.12
+Cassava,Zamfara,4,347.61
+Tomato,Zamfara,10,799.84
+Tomato,Zamfara,7,789.38
+Onion,Zamfara,4,585.43
+Garri,Zamfara,11,413.83
+Palm Oil,Zamfara,2,2342.81
+Palm Oil,Zamfara,6,2207.43
+Groundnut,Zamfara,5,583.55
+Groundnut,Zamfara,10,831.12
+Sorghum,Zamfara,1,474.88
+Sorghum,Zamfara,7,429.53
+Millet,Zamfara,10,304.03
+Wheat,Zamfara,2,1519.79
+Wheat,Zamfara,6,1041.42
+Sugar,Zamfara,1,778.47
+Salt,Zamfara,7,223.81
+Salt,Zamfara,3,215.38
+Salt,Zamfara,12,233.36
+Pepper,Zamfara,2,955.15
+Cocoa,Zamfara,2,2201.18
+Cocoa,Zamfara,11,2736.83
+Coffee,Zamfara,8,2223.82
+Coffee,Zamfara,5,1017.93
+Coffee,Zamfara,2,2339.42
+Coffee,Zamfara,1,2496.05
+Plantain,Zamfara,5,478.39
+Plantain,Zamfara,7,988.85
+Plantain,Zamfara,10,602.21
+Banana,Zamfara,10,526.86
+Banana,Zamfara,2,650.93
+Banana,Zamfara,7,515.21
+Sweet Potato,Zamfara,5,596.99
+Sweet Potato,Zamfara,4,628.93
+Sweet Potato,Zamfara,1,663.39
+Irish Potato,Zamfara,11,616.44
+Cabbage,Zamfara,8,672.15
+Cabbage,Zamfara,11,318.49
+Cabbage,Zamfara,4,372.82
+Carrot,Zamfara,1,892.95
+Carrot,Zamfara,2,786.75
+Carrot,Zamfara,8,820.26
+Carrot,Zamfara,3,878.38
+Okra,Zamfara,11,522.49
+Eggplant,Zamfara,11,322.66
+Eggplant,Zamfara,1,298.02
+Eggplant,Zamfara,4,511.58
+Eggplant,Zamfara,10,285.37
+Watermelon,Zamfara,11,505.21
+Watermelon,Zamfara,10,995.3
+Pineapple,Zamfara,1,920.13
+Orange,Zamfara,1,596.3
+Orange,Zamfara,7,293.49
+Mango,Zamfara,6,588.45
+Mango,Zamfara,7,296.59

@@ -1,0 +1,6 @@
+# requirements.txt
+flask
+scikit-learn
+pandas
+joblib
+openpyxl
