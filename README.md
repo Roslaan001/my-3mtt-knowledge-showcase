@@ -34,12 +34,12 @@ This app allows users (farmers, marketers, and consumers) to get estimated price
 
 ## 📁 Project Structure
 
-── app.py # Main Flask application
-├── utils.py # Prediction logic
-├── train_model.py # Script to train and save model
-├── model.pkl # Saved machine learning model
-├── sample_data.csv # Cleaned data used for training
-├── README.md # Project documentation
+* ── app.py # Main Flask application
+* ├── utils.py # Prediction logic
+* ├── train_model.py # Script to train and save model
+* ├── model.pkl # Saved machine learning model
+* ├── sample_data.csv # Cleaned data used for training
+* ├── README.md # Project documentation
 
 
 ---
@@ -60,8 +60,8 @@ This app allows users (farmers, marketers, and consumers) to get estimated price
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/agric-price-predictor.git
-cd agric-price-predictor
+git clone https://github.com/Roslaan001/my-3mtt-knowledge-showcase.git
+cd my-3mtt-knowledge-showcase
 
 ```
 
@@ -106,9 +106,9 @@ python app.py
 
 
 📬 Contact
-Built by Abdulsomad Abdulwahab for the 3MTT Knowledge Showcase
-Email: abdulsomad005@gmail.com
-GitHub: github.com/Roslaan001
+- Built by Abdulsomad Abdulwahab for the 3MTT Knowledge Showcase
+- Email: abdulsomad005@gmail.com
+- GitHub: github.com/Roslaan001
 
 
 ## Author
