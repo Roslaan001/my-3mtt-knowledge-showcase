@@ -1,16 +1,4 @@
-project/
-├── app.py
-├── model.pkl               # trained model file
-├── utils.py                # function to load model and predict
-├── sample_data.csv         # sample training data
-├── train_model.py          # script to train the ML model
-├── requirements.txt        # dependencies
-└── README.md               # project overview and setup instructions
 
-
-
-# Re-run the code to generate the README.md file after the state reset
-readme_content = """
 # 🌾 Nigeria Agricultural Market Price Predictor
 
 An intelligent machine learning web application that predicts the price of common crops across different Nigerian states based on user inputs (crop, location, month). Built with Flask and deployed using Azure Web Apps.
@@ -65,9 +53,6 @@ This app allows users (farmers, marketers, and consumers) to get estimated price
 
 ---
 
-## 🖼️ Screenshots
-
-![App Screenshot](https://via.placeholder.com/600x400.png?text=Market+Price+Predictor+App)
 
 ---
 
